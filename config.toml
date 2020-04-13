@@ -1,7 +1,7 @@
 baseURL = "https://shoogle.us/new-mexico"
 languageCode = "en-US"
 title = "New Mexico"
-theme = "ln-base-en"
+theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
