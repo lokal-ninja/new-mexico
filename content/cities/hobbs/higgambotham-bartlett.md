@@ -1,4 +1,4 @@
 ---
-title: "Higgambotham  Bartlett"
+title: "Higgambotham Bartlett"
 url: /hobbs/higgambotham-bartlett/
 ---

@@ -1,6 +1,6 @@
 ---
 title: Texico
 url: /texico/
-latitude: 
-longitude: 
+latitude: 34.392878800000005
+longitude: -103.0477336
 ---

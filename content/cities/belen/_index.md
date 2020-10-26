@@ -1,6 +1,6 @@
 ---
 title: Belen
 url: /belen/
-latitude: 
-longitude: 
+latitude: 34.662749500000004
+longitude: -106.7762
 ---
