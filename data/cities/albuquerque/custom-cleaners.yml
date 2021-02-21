@@ -1,6 +1,5 @@
 id: 8107941818
 type: node
-shop: laundry
 latitude: 35.0855364
 longitude: -106.6574717
 postcode: "87102"
@@ -8,5 +7,5 @@ city: Albuquerque
 street: "Central Avenue Northwest"
 housenumber: 800
 phone: "+1-505-243-3130"
-opening_hours: "Monday-Friday 7:30 am to 6:00 pm and Saturday 9:00 am to 3:00 pm"
+opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-15:00"
 website: ""

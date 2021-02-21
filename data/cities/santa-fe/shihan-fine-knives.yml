@@ -1,6 +1,5 @@
 id: 799255676
 type: way
-shop: houseware
 latitude: 35.657423300000005
 longitude: -105.9940083
 postcode: "87507"
@@ -8,5 +7,5 @@ city: Santa Fe
 street: "Rufina Street"
 housenumber: 2923
 phone: ""
-opening_hours: "'by appointment'"
+opening_hours: "by appointment"
 website: "https://shihanfineknives.com/visit"

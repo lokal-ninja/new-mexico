@@ -1,6 +1,5 @@
 id: 8107941828
 type: node
-shop: hairdresser
 latitude: 35.1313249
 longitude: -106.5965311
 postcode: "87109"
@@ -8,5 +7,5 @@ city: Albuquerque
 street: "Montgomery Boulevard Northeast"
 housenumber: 4253
 phone: "5054455522"
-opening_hours: "Monday-Saturday 9am-6pm"
+opening_hours: "Mo-Sa 09:00-18:00"
 website: "Platinumblacksalon.com"

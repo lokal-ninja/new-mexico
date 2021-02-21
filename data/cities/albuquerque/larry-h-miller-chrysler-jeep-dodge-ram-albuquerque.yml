@@ -1,12 +1,11 @@
 id: 2081181339
 type: node
-shop: car
 latitude: 35.086537500000006
-longitude: -106.5517875
+longitude: -106.551787
 postcode: "87110"
 city: Albuquerque
 street: "Lomas Boulevard Northeast"
 housenumber: 8528
 phone: "505-366-2900"
 opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-19:00, Su 11:00-18:00"
-website: "http://www.lhmchryslerjeepdodgeabq.com"
+website: "https://www.lhmchryslerjeepdodgeabq.com/"

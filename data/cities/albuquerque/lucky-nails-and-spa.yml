@@ -1,6 +1,5 @@
 id: 8107941827
 type: node
-shop: beauty
 latitude: 35.1765835
 longitude: -106.55818260000001
 postcode: "87122"
@@ -8,5 +7,5 @@ city: Albuquerque
 street: "Carmel Avenue Northeast"
 housenumber: 7900
 phone: "+1-505-821-0793"
-opening_hours: "Monday-Saturday 9am-7pm, Sunday 11am-5pm, Wednesday Closed"
+opening_hours: "Mo,Tu,Th-Sa 09:00-19:00; We closed; Su 11:00-17:00"
 website: "http://luckynailsnm.com"

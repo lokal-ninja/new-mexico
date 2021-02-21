@@ -1,12 +1,11 @@
 id: 3163223007
 type: node
-shop: supermarket
 latitude: 35.6730721
-longitude: -105.9531647
+longitude: -105.953164
 postcode: "87505"
 city: Santa Fe
 street: "West Cordova Road"
 housenumber: 530
 phone: "+1-505-995-8145"
-opening_hours: ""
-website: ""
+opening_hours: "We,Su"
+website: "https://locations.traderjoes.com/nm/santa-fe/165"

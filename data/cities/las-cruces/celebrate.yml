@@ -1,6 +1,5 @@
 id: 109650644
 type: way
-shop: alcohol
 latitude: 32.306731
 longitude: -106.7395475
 postcode: ""
@@ -8,5 +7,5 @@ city: Las Cruces
 street: "South Telshor Boulevard"
 housenumber: 900
 phone: ""
-opening_hours: "Mo-Sa 08:00-00:00; Su 12:00-00:00"
+opening_hours: "Mo-Sa 08:00-24:00; Su 12:00-24:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 8107941831
 type: node
-shop: hairdresser
 latitude: 35.1093342
 longitude: -106.5755417
 postcode: "87110"
@@ -8,5 +7,5 @@ city: Albuquerque
 street: "Menaul Boulevard Northeast"
 housenumber: 6121
 phone: "+1-505-433-3966"
-opening_hours: "Mon to Fri : 9:00 am to 8:00 Pm, Sat : 9:00 am to 6:00 Pm"
+opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00"
 website: "https://christopherjamessalon.com"
