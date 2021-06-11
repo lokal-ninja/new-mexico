@@ -1,5 +1,5 @@
 ---
 title: "Tewa Market at Totavi"
-url: /pojoaque/tewa-market-at-totavi/
+url: /totavi/tewa-market-at-totavi-2/
 shop: convenience
 ---
