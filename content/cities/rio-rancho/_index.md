@@ -1,6 +1,6 @@
 ---
 title: Rio Rancho
 url: /rio-rancho/
-latitude: 35.269381
-longitude: -106.63281900000001
+latitude: 35.233375
+longitude: -106.66447160000001
 ---
