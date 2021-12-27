@@ -1,6 +1,6 @@
 ---
 title: High Rolls
 url: /high-rolls/
-latitude: 32.950923
-longitude: -105.8355422
+latitude: 32.948
+longitude: -105.839
 ---

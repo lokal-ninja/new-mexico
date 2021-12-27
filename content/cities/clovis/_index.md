@@ -1,6 +1,6 @@
 ---
 title: Clovis
 url: /clovis/
-latitude: 34.405472
-longitude: -103.20507090000001
+latitude: 34.434
+longitude: -103.195
 ---

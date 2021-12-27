@@ -1,6 +1,6 @@
 ---
 title: Moriarty
 url: /moriarty/
-latitude: 34.9900503
-longitude: -106.04918930000001
+latitude: 35.005
+longitude: -106.045
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sunland Park
 url: /sunland-park/
-latitude: 31.796496
-longitude: -106.5799891
+latitude: 31.798
+longitude: -106.575
 ---

@@ -1,6 +1,6 @@
 ---
 title: Alamogordo
 url: /alamogordo/
-latitude: 32.9046474
-longitude: -105.94183500000001
+latitude: 32.922
+longitude: -105.961
 ---

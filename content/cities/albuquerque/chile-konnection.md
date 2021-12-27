@@ -1,5 +1,5 @@
 ---
 title: "Chile Konnection"
 url: /albuquerque/chile-konnection/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,6 +1,6 @@
 ---
 title: Los Lunas
 url: /los-lunas/
-latitude: 34.8142093
-longitude: -106.7613067
+latitude: 34.807
+longitude: -106.735
 ---

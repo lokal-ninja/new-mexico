@@ -1,6 +1,6 @@
 ---
 title: El Cerro-Monterey Park
 url: /el-cerro-monterey-park/
-latitude: 
-longitude: 
+latitude: 34.772
+longitude: -106.665
 ---

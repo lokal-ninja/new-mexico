@@ -1,5 +1,5 @@
 ---
 title: "Sweet Occasions"
 url: /socorro/sweet-occasions/
-shop: confectionery
+shop: Süßwaren
 ---

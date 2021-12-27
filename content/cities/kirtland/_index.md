@@ -1,6 +1,6 @@
 ---
 title: Kirtland
 url: /kirtland/
-latitude: 36.7342984
-longitude: -108.36016140000001
+latitude: 36.744
+longitude: -108.361
 ---

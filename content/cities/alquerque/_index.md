@@ -1,6 +1,6 @@
 ---
 title: Alquerque
 url: /alquerque/
-latitude: 
-longitude: 
+latitude: 35.15
+longitude: -106.688
 ---

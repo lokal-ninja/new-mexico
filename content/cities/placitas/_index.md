@@ -1,6 +1,6 @@
 ---
 title: Placitas
 url: /placitas/
-latitude: 36.4458502
-longitude: -106.44169830000001
+latitude: 35.309
+longitude: -106.493
 ---

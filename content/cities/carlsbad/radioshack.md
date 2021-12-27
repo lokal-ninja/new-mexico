@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /carlsbad/radioshack/
-shop: electronics
+shop: Elektronik
 ---

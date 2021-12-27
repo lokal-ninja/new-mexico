@@ -1,6 +1,6 @@
 ---
 title: Eunice
 url: /eunice/
-latitude: 32.4388224
-longitude: -103.159002
+latitude: 32.443
+longitude: -103.16
 ---

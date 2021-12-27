@@ -1,6 +1,6 @@
 ---
 title: Albuquerque
 url: /albuquerque/
-latitude: 35.084103400000004
-longitude: -106.650985
+latitude: 35.081
+longitude: -106.609
 ---

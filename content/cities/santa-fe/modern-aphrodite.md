@@ -1,5 +1,5 @@
 ---
 title: "Modern Aphrodite"
 url: /santa-fe/modern-aphrodite/
-shop: erotic
+shop: Erotik
 ---

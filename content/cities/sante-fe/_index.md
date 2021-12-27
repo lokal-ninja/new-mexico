@@ -1,6 +1,6 @@
 ---
 title: Sante Fe
 url: /sante-fe/
-latitude: 
-longitude: 
+latitude: 35.663
+longitude: -105.997
 ---

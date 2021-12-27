@@ -1,5 +1,5 @@
 ---
 title: "Quilts Ole"
 url: /corrales/quilts-ole/
-shop: shop
+shop: Allgemein
 ---

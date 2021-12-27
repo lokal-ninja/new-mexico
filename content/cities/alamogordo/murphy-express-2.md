@@ -1,5 +1,5 @@
 ---
 title: "Murphy Express"
 url: /alamogordo/murphy-express-2/
-shop: convenience
+shop: Lebensmittel
 ---

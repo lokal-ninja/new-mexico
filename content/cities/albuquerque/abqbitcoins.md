@@ -1,5 +1,5 @@
 ---
 title: "ABQBitcoins"
 url: /albuquerque/abqbitcoins/
-shop: shop
+shop: Allgemein
 ---

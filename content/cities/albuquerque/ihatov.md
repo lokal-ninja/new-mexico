@@ -1,5 +1,5 @@
 ---
 title: "Ihatov"
 url: /albuquerque/ihatov/
-shop: bakery
+shop: Bäckerei
 ---

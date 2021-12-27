@@ -1,6 +1,6 @@
 ---
 title: Raton
 url: /raton/
-latitude: 36.9033719
-longitude: -104.4393587
+latitude: 36.879
+longitude: -104.439
 ---

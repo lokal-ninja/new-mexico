@@ -1,6 +1,6 @@
 ---
 title: Hobbs
 url: /hobbs/
-latitude: 32.707667
-longitude: -103.1311314
+latitude: 32.741
+longitude: -103.157
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lovington
 url: /lovington/
-latitude: 32.9442913
-longitude: -103.3484348
+latitude: 32.944
+longitude: -103.356
 ---

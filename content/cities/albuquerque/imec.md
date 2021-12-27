@@ -1,5 +1,5 @@
 ---
 title: "IMEC"
 url: /albuquerque/imec/
-shop: jewelry
+shop: Schmuck
 ---

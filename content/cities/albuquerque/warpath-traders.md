@@ -1,5 +1,5 @@
 ---
 title: "Warpath Traders"
 url: /albuquerque/warpath-traders/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,6 +1,6 @@
 ---
 title: Reserve
 url: /reserve/
-latitude: 33.7133071
-longitude: -108.75786190000001
+latitude: 33.713
+longitude: -108.758
 ---

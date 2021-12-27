@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
 url: /albuquerque/allsups-2/
-shop: convenience
+shop: Lebensmittel
 ---

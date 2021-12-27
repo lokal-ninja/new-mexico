@@ -1,5 +1,5 @@
 ---
 title: "DG's Deli"
 url: /albuquerque/dgs-deli/
-shop: deli
+shop: Feinkost
 ---

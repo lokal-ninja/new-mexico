@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /albuquerque/rainbow/
-shop: clothes
+shop: Kleidung
 ---

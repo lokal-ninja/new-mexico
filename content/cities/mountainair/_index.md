@@ -1,6 +1,6 @@
 ---
 title: Mountainair
 url: /mountainair/
-latitude: 
-longitude: 
+latitude: 34.521
+longitude: -106.241
 ---

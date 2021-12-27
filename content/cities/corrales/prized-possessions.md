@@ -1,5 +1,5 @@
 ---
 title: "Prized Possessions"
 url: /corrales/prized-possessions/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pojoaque
 url: /pojoaque/
-latitude: 35.8928461
-longitude: -106.0225635
+latitude: 35.855
+longitude: -105.996
 ---

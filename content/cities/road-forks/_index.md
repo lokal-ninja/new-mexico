@@ -1,6 +1,6 @@
 ---
 title: Road Forks
 url: /road-forks/
-latitude: 32.2338084
-longitude: -108.9524837
+latitude: 32.235
+longitude: -108.956
 ---

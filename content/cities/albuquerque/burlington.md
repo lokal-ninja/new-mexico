@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /albuquerque/burlington/
-shop: clothes
+shop: Kleidung
 ---

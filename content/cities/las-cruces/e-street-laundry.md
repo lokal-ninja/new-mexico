@@ -1,5 +1,5 @@
 ---
 title: "E Street Laundry"
 url: /las-cruces/e-street-laundry/
-shop: laundry
+shop: Wäscherei
 ---

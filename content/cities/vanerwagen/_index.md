@@ -1,6 +1,6 @@
 ---
 title: Vanerwagen
 url: /vanerwagen/
-latitude: 
-longitude: 
+latitude: 35.273
+longitude: -108.755
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /albuquerque/lowes-2/
-shop: doityourself
+shop: Baumarkt
 ---

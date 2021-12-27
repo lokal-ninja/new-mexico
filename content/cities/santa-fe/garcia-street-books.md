@@ -1,5 +1,5 @@
 ---
 title: "Garcia Street Books"
 url: /santa-fe/garcia-street-books/
-shop: books
+shop: Bücher
 ---

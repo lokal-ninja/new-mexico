@@ -1,6 +1,6 @@
 ---
 title: Carlsbad
 url: /carlsbad/
-latitude: 32.4257456
-longitude: -104.2376121
+latitude: 32.441
+longitude: -104.254
 ---

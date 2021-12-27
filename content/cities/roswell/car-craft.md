@@ -1,5 +1,5 @@
 ---
 title: "Car Craft"
 url: /roswell/car-craft/
-shop: car
+shop: Autohaus
 ---

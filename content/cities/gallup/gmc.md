@@ -1,5 +1,5 @@
 ---
 title: "GMC"
 url: /gallup/gmc/
-shop: car
+shop: Autohaus
 ---

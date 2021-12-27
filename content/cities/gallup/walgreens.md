@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /gallup/walgreens/
-shop: chemist
+shop: Drogerie
 ---

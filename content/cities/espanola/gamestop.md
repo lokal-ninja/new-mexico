@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /espanola/gamestop/
-shop: video games
+shop: Videospiele
 ---

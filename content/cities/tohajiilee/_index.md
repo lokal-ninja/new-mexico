@@ -1,6 +1,6 @@
 ---
 title: Tohajiilee
 url: /tohajiilee/
-latitude: 
-longitude: 
+latitude: 35.041
+longitude: -107.098
 ---

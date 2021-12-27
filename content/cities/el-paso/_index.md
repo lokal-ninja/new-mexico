@@ -1,6 +1,6 @@
 ---
 title: El Paso
 url: /el-paso/
-latitude: 
-longitude: 
+latitude: 31.811
+longitude: -106.558
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MTC, LLC"
 url: /clayton/mtc-llc/
-shop: tyres
+shop: Reifen
 ---

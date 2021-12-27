@@ -1,6 +1,6 @@
 ---
 title: Gallup
 url: /gallup/
-latitude: 
-longitude: 
+latitude: 35.533
+longitude: -108.76
 ---

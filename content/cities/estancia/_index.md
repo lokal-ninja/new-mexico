@@ -1,6 +1,6 @@
 ---
 title: Estancia
 url: /estancia/
-latitude: 34.758393500000004
-longitude: -106.05585
+latitude: 34.76
+longitude: -106.056
 ---

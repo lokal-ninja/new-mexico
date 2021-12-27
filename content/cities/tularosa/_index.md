@@ -1,6 +1,6 @@
 ---
 title: Tularosa
 url: /tularosa/
-latitude: 33.073973
-longitude: -106.0186025
+latitude: 33.076
+longitude: -106.019
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Indoor Flea Market"
 url: /albuquerque/the-indoor-flea-market/
-shop: charity
+shop: Gebrauchtwaren
 ---

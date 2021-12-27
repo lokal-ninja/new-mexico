@@ -1,6 +1,6 @@
 ---
 title: Artesia
 url: /artesia/
-latitude: 32.8423345
-longitude: -104.40329630000001
+latitude: 32.848
+longitude: -104.427
 ---

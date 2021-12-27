@@ -1,6 +1,6 @@
 ---
 title: Crownpoint
 url: /crownpoint/
-latitude: 35.679
-longitude: -108.14720480000001
+latitude: 35.68
+longitude: -108.154
 ---

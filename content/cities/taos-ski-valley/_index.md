@@ -1,6 +1,6 @@
 ---
 title: Taos Ski Valley
 url: /taos-ski-valley/
-latitude: 36.596000000000004
-longitude: -105.45450000000001
+latitude: 36.597
+longitude: -105.459
 ---

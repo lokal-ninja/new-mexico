@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /roswell/stripes-2/
-shop: convenience
+shop: Lebensmittel
 ---
