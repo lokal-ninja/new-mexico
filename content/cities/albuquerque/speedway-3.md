@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /albuquerque/speedway-3/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Compa Customs"
 url: /albuquerque/compa-customs/
-shop: Autowerkstatt
+shop: car repair
 ---

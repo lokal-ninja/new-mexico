@@ -1,5 +1,5 @@
 ---
 title: "Roswell Toyota Scion"
 url: /roswell/roswell-toyota-scion/
-shop: Autohaus
+shop: car
 ---

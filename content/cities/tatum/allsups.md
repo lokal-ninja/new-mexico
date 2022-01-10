@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
 url: /tatum/allsups/
-shop: Lebensmittel
+shop: convenience
 ---

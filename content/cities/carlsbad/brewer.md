@@ -1,5 +1,5 @@
 ---
 title: "Brewer"
 url: /carlsbad/brewer/
-shop: Lebensmittel
+shop: convenience
 ---

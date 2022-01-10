@@ -1,5 +1,5 @@
 ---
 title: "French"
 url: /albuquerque/french/
-shop: Bestattungen
+shop: funeral directors
 ---

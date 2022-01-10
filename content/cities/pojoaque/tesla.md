@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /pojoaque/tesla/
-shop: Autohaus
+shop: car
 ---

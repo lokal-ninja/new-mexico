@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /bernalillo/walgreens/
-shop: Drogerie
+shop: chemist
 ---

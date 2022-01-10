@@ -1,5 +1,5 @@
 ---
 title: "ABQ Cleaners"
 url: /albuquerque/abq-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

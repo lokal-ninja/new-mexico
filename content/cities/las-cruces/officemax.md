@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /las-cruces/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

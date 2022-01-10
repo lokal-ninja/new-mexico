@@ -1,5 +1,5 @@
 ---
 title: "Mattress Outlet"
 url: /gallup/mattress-outlet/
-shop: Betten
+shop: bed
 ---

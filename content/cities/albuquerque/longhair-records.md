@@ -1,5 +1,5 @@
 ---
 title: "Longhair Records"
 url: /albuquerque/longhair-records/
-shop: Musik
+shop: music
 ---

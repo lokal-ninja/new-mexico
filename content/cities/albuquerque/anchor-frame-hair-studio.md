@@ -1,5 +1,5 @@
 ---
 title: "Anchor + Frame Hair Studio"
 url: /albuquerque/anchor-frame-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /santa-fe/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

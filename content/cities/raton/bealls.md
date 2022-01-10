@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /raton/bealls/
-shop: Warenhaus
+shop: department store
 ---

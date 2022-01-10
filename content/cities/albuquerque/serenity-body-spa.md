@@ -1,5 +1,5 @@
 ---
 title: "Serenity Body Spa"
 url: /albuquerque/serenity-body-spa/
-shop: Massage
+shop: massage
 ---

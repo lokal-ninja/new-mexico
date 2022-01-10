@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /albuquerque/autozone/
-shop: Autoteile
+shop: car parts
 ---

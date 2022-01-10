@@ -1,5 +1,5 @@
 ---
 title: "Cila Salon"
 url: /albuquerque/cila-salon/
-shop: Friseur
+shop: hairdresser
 ---

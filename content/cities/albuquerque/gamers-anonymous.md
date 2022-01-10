@@ -1,5 +1,5 @@
 ---
 title: "Gamers Anonymous"
 url: /albuquerque/gamers-anonymous/
-shop: Videospiele
+shop: video games
 ---

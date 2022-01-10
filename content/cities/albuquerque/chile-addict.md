@@ -1,5 +1,5 @@
 ---
 title: "Chile Addict"
 url: /albuquerque/chile-addict/
-shop: Andenken
+shop: gift
 ---

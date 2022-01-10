@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /albuquerque/discount-tire/
-shop: Reifen
+shop: tyres
 ---

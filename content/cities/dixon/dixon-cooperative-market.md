@@ -1,5 +1,5 @@
 ---
 title: "Dixon Cooperative Market"
 url: /dixon/dixon-cooperative-market/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

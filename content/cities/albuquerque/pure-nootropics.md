@@ -1,5 +1,5 @@
 ---
 title: "Pure Nootropics"
 url: /albuquerque/pure-nootropics/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

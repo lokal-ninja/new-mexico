@@ -1,5 +1,5 @@
 ---
 title: "Dillard's (Women's)"
 url: /albuquerque/dillards-womens/
-shop: Warenhaus
+shop: department store
 ---

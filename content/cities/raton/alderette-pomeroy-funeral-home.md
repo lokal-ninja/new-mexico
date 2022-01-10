@@ -1,5 +1,5 @@
 ---
 title: "Alderette-Pomeroy Funeral Home"
 url: /raton/alderette-pomeroy-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

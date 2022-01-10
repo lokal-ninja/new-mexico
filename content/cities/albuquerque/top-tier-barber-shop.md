@@ -1,5 +1,5 @@
 ---
 title: "Top Tier Barber Shop"
 url: /albuquerque/top-tier-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Enchanted Lands Self Storage"
 url: /roswell/enchanted-lands-self-storage/
-shop: Baumarkt
+shop: doityourself
 ---

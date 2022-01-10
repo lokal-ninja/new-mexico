@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /raton/shell/
-shop: Lebensmittel
+shop: convenience
 ---

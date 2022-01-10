@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /gallup/speedway-10/
-shop: Lebensmittel
+shop: convenience
 ---

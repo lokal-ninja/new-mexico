@@ -1,5 +1,5 @@
 ---
 title: "Soar Distribution Ltd"
 url: /albuquerque/soar-distribution-ltd/
-shop: Musik
+shop: music
 ---

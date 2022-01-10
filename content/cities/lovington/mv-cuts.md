@@ -1,5 +1,5 @@
 ---
 title: "MV Cuts"
 url: /lovington/mv-cuts/
-shop: Friseur
+shop: hairdresser
 ---

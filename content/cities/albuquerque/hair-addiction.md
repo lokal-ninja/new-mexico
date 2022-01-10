@@ -1,5 +1,5 @@
 ---
 title: "Hair Addiction"
 url: /albuquerque/hair-addiction/
-shop: Friseur
+shop: hairdresser
 ---

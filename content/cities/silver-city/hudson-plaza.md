@@ -1,5 +1,5 @@
 ---
 title: "Hudson Plaza"
 url: /silver-city/hudson-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /clovis/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

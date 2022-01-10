@@ -1,5 +1,5 @@
 ---
 title: "Tito's Gallery"
 url: /las-vegas/titos-gallery/
-shop: Kunst
+shop: art
 ---

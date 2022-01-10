@@ -1,5 +1,5 @@
 ---
 title: "Magic Nails"
 url: /albuquerque/magic-nails/
-shop: Kosmetik
+shop: beauty
 ---

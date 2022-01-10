@@ -1,5 +1,5 @@
 ---
 title: "Hot Flash Glass"
 url: /albuquerque/hot-flash-glass/
-shop: Basteln
+shop: craft
 ---

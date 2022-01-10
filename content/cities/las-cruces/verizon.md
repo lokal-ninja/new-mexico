@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /las-cruces/verizon/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Basin Electronics"
 url: /alamogordo/basin-electronics/
-shop: Elektronik
+shop: electronics
 ---

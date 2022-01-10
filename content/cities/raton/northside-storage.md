@@ -1,5 +1,5 @@
 ---
 title: "Northside Storage"
 url: /raton/northside-storage/
-shop: Mieten
+shop: storage rental
 ---

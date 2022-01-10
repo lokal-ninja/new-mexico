@@ -1,5 +1,5 @@
 ---
 title: "LMC Enterprises Inc."
 url: /clayton/lmc-enterprises-inc/
-shop: Möbel
+shop: furniture
 ---

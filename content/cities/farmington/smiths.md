@@ -1,5 +1,5 @@
 ---
-title: "Smiths"
+title: "Smith's"
 url: /farmington/smiths/
-shop: Lebensmittel
+shop: supermarket
 ---

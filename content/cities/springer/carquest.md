@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /springer/carquest/
-shop: Autoteile
+shop: car parts
 ---

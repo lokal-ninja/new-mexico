@@ -1,5 +1,5 @@
 ---
 title: "Roger's"
 url: /los-lunas/rogers/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Country Store"
 url: /quemado/the-country-store/
-shop: Lebensmittel
+shop: convenience
 ---

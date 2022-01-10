@@ -1,5 +1,5 @@
 ---
 title: "Mati"
 url: /albuquerque/mati/
-shop: Schmuck
+shop: jewelry
 ---

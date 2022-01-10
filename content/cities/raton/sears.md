@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /raton/sears/
-shop: Warenhaus
+shop: department store
 ---

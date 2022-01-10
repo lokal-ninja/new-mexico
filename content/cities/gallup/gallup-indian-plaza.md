@@ -1,5 +1,5 @@
 ---
 title: "Gallup Indian Plaza"
 url: /gallup/gallup-indian-plaza/
-shop: Warenhaus
+shop: department store
 ---

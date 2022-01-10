@@ -1,5 +1,5 @@
 ---
 title: "European AutoWerks"
 url: /santa-fe/european-autowerks/
-shop: Autowerkstatt
+shop: car repair
 ---

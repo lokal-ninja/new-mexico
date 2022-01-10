@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /zuni/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

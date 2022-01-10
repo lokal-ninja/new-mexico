@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /shiprock/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

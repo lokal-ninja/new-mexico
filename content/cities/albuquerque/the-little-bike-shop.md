@@ -1,5 +1,5 @@
 ---
 title: "The Little Bike Shop"
 url: /albuquerque/the-little-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scuba Kaizen"
 url: /santa-fe/scuba-kaizen/
-shop: Tauchen
+shop: diving
 ---

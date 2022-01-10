@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /santa-rosa/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ensignal – Verizon Authorized Retailer"
 url: /hobbs/ensignal-verizon-authorized-retailer/
-shop: Handy
+shop: mobile phone
 ---

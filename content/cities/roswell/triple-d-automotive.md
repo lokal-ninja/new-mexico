@@ -1,5 +1,5 @@
 ---
 title: "Triple D Automotive"
 url: /roswell/triple-d-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

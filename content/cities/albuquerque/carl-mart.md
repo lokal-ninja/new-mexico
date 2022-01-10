@@ -1,5 +1,5 @@
 ---
 title: "Carl Mart"
 url: /albuquerque/carl-mart/
-shop: Lebensmittel
+shop: convenience
 ---

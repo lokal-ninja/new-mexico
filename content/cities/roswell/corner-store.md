@@ -1,5 +1,5 @@
 ---
 title: "Corner Store"
 url: /roswell/corner-store/
-shop: Lebensmittel
+shop: convenience
 ---

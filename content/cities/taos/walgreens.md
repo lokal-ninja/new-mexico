@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /taos/walgreens/
-shop: Drogerie
+shop: chemist
 ---

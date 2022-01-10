@@ -1,5 +1,5 @@
 ---
 title: "Mike's Jerky"
 url: /albuquerque/mikes-jerky/
-shop: Metzgerei
+shop: butcher
 ---

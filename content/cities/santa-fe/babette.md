@@ -1,5 +1,5 @@
 ---
 title: "BABETTE"
 url: /santa-fe/babette/
-shop: Kleidung
+shop: clothes
 ---

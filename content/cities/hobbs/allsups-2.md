@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
 url: /hobbs/allsups-2/
-shop: Lebensmittel
+shop: convenience
 ---

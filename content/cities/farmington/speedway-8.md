@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /farmington/speedway-8/
-shop: Lebensmittel
+shop: convenience
 ---

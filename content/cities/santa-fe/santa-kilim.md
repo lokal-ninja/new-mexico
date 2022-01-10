@@ -1,5 +1,5 @@
 ---
 title: "Santa Kilim"
 url: /santa-fe/santa-kilim/
-shop: Antiquitäten
+shop: antiques
 ---

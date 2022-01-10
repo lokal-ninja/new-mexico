@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /grants/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

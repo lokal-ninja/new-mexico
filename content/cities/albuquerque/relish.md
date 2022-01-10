@@ -1,5 +1,5 @@
 ---
 title: "Relish"
 url: /albuquerque/relish/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allsups"
 url: /alamogordo/allsups/
-shop: Lebensmittel
+shop: convenience
 ---
