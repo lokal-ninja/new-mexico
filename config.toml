@@ -1,4 +1,4 @@
-baseURL = "https://us.shoogle.net/new-mexico"
+baseURL = "https://us.shoogle.net/new-mexico/"
 languageCode = "en-US"
 title = "New Mexico"
 theme = "ln-base"
