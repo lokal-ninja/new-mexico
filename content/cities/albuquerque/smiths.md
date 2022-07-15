@@ -1,5 +1,5 @@
 ---
-title: "Smiths"
+title: "Smith's"
 url: /albuquerque/smiths/
 shop: supermarket
 ---
