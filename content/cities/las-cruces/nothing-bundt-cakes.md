@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /las-cruces/nothing-bundt-cakes/
-shop: bakery
+shop: pastry
 ---
