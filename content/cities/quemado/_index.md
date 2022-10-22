@@ -1,6 +1,6 @@
 ---
-title: quemado
+title: Quemado
 url: /quemado/
-latitude: 34.344
-longitude: -108.498
+latitude: 34.346
+longitude: -108.499
 ---
