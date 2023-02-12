@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
-url: /carlsbad/allsups-2/
+url: /carlsbad/allsups/
 shop: convenience
 ---
