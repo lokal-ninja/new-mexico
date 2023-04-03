@@ -1,6 +1,6 @@
 ---
 title: Corrales
 url: /corrales/
-latitude: 35.219
-longitude: -106.622
+latitude: 35.225
+longitude: -106.614
 ---
