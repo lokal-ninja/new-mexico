@@ -1,6 +1,6 @@
 ---
 title: Thoreau
 url: /thoreau/
-latitude: 35.405
-longitude: -108.216
+latitude: 35.406
+longitude: -108.214
 ---

@@ -1,5 +1,5 @@
 ---
-title: "LIbrary Bookstore"
+title: "Library Bookstore"
 url: /carrizozo/library-bookstore/
 shop: books
 ---
