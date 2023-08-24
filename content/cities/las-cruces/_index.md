@@ -1,6 +1,6 @@
 ---
 title: Las Cruces
 url: /las-cruces/
-latitude: 32.301
-longitude: -106.737
+latitude: 32.289
+longitude: -106.793
 ---
