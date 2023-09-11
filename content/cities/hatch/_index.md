@@ -1,6 +1,6 @@
 ---
 title: Hatch
 url: /hatch/
-latitude: 32.665
-longitude: -107.158
+latitude: 32.666
+longitude: -107.161
 ---
