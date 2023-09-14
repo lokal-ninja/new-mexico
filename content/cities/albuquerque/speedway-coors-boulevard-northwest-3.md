@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /albuquerque/speedway/
+url: /albuquerque/speedway-coors-boulevard-northwest-3/
 shop: convenience
 ---

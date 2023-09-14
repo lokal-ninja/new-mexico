@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
-url: /roswell/stripes/
+url: /roswell/stripes-southeast-main-street/
 shop: convenience
 ---

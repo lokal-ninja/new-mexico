@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
-url: /albuquerque/petsmart/
+url: /albuquerque/petsmart-coors-boulevard-northwest/
 shop: pet
 ---

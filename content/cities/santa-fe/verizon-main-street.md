@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /santa-fe/verizon/
+url: /santa-fe/verizon-main-street/
 shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /albuquerque/speedway/
+url: /albuquerque/speedway-4th-street-northwest/
 shop: convenience
 ---

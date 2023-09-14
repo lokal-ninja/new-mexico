@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /alamogordo/speedway/
+url: /alamogordo/speedway-north-florida-avenue/
 shop: convenience
 ---

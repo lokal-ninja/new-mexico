@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
-url: /albuquerque/smiths/
+url: /albuquerque/smiths-academy-road-northeast/
 shop: supermarket
 ---

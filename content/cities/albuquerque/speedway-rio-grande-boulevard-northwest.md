@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /albuquerque/speedway/
+url: /albuquerque/speedway-rio-grande-boulevard-northwest/
 shop: convenience
 ---

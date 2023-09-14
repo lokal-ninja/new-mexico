@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
-url: /albuquerque/gamestop/
+url: /albuquerque/gamestop-san-mateo-boulevard-northeast/
 shop: video games
 ---

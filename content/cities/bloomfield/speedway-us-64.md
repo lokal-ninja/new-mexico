@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /bloomfield/speedway/
+url: /bloomfield/speedway-us-64/
 shop: convenience
 ---

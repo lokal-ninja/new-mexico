@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /albuquerque/atandt/
+url: /albuquerque/atandt-wyoming-boulevard-northeast/
 shop: mobile phone
 ---

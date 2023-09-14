@@ -1,5 +1,5 @@
 ---
 title: "Style America"
-url: /albuquerque/style-america/
+url: /albuquerque/style-america-juan-tabo-boulevard-northeast/
 shop: hairdresser
 ---

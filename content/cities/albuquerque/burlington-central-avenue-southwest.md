@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /albuquerque/burlington/
+url: /albuquerque/burlington-central-avenue-southwest/
 shop: department store
 ---

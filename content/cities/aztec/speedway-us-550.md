@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /bloomfield/speedway/
+url: /aztec/speedway-us-550/
 shop: convenience
 ---

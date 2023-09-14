@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
-url: /albuquerque/smiths/
+url: /albuquerque/smiths-tramway-boulevard-southeast/
 shop: convenience
 ---

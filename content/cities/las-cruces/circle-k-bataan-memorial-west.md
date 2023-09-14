@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /las-cruces/circle-k/
+url: /las-cruces/circle-k-bataan-memorial-west/
 shop: convenience
 ---

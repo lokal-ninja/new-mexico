@@ -1,5 +1,5 @@
 ---
 title: "Seductions"
-url: /albuquerque/seductions/
+url: /albuquerque/seductions-juan-tabo-boulevard-northeast/
 shop: erotic
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /albuquerque/speedway/
+url: /albuquerque/speedway-montgomery-boulevard-northeast/
 shop: convenience
 ---

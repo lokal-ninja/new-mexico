@@ -1,6 +1,6 @@
 ---
 title: Deming
 url: /deming/
-latitude: 32.268
-longitude: -107.747
+latitude: 32.271
+longitude: -107.752
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
-url: /albuquerque/ross/
+url: /albuquerque/ross-montgomery-boulevard-northeast/
 shop: department store
 ---

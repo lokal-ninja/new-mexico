@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /albuquerque/goodwill/
+url: /albuquerque/goodwill-juan-tabo-boulevard-northeast/
 shop: charity
 ---

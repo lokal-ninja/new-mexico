@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /gallup/speedway/
+url: /gallup/speedway-2/
 shop: convenience
 ---

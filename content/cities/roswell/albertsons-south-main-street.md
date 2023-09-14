@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /roswell/albertsons/
+url: /roswell/albertsons-south-main-street/
 shop: supermarket
 ---

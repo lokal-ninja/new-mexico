@@ -1,5 +1,5 @@
 ---
 title: "Martinizing Dry Cleaning"
-url: /santa-fe/martinizing-dry-cleaning/
+url: /santa-fe/martinizing-dry-cleaning-rodeo-road/
 shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /albuquerque/verizon/
+url: /albuquerque/verizon-montgomery-boulevard-northeast/
 shop: mobile phone
 ---

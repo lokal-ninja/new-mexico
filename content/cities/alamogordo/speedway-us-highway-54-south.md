@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /alamogordo/speedway/
+url: /alamogordo/speedway-us-highway-54-south/
 shop: convenience
 ---

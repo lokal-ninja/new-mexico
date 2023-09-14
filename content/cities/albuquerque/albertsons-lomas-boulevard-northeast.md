@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /albuquerque/albertsons/
+url: /albuquerque/albertsons-lomas-boulevard-northeast/
 shop: supermarket
 ---

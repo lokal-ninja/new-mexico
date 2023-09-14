@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
-url: /alamogordo/allsups/
+url: /alamogordo/allsups-north-white-sands-boulevard/
 shop: convenience
 ---

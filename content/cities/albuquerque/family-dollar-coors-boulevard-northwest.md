@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /albuquerque/family-dollar/
+url: /albuquerque/family-dollar-coors-boulevard-northwest/
 shop: variety store
 ---

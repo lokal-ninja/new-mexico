@@ -1,5 +1,5 @@
 ---
 title: "Kelly Liquors"
-url: /santa-fe/kelly-liquors/
+url: /santa-fe/kelly-liquors-cerrillos-road/
 shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /rio-rancho/speedway/
+url: /rio-rancho/speedway-northern-boulevard-northeast/
 shop: convenience
 ---

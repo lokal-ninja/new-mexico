@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /las-cruces/speedway/
+url: /las-cruces/speedway-bataan-memorial-east/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /espanola/speedway/
+url: /espanola/speedway-paseo-de-onate/
 shop: convenience
 ---

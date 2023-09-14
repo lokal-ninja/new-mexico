@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /albuquerque/walmart-supercenter/
+url: /albuquerque/walmart-supercenter-carlisle-boulevard-northeast/
 shop: supermarket
 ---

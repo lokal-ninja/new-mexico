@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
-url: /carlsbad/allsups/
+url: /carlsbad/allsups-national-parks-highway/
 shop: convenience
 ---

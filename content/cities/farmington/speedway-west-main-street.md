@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /farmington/speedway/
+url: /farmington/speedway-west-main-street/
 shop: convenience
 ---

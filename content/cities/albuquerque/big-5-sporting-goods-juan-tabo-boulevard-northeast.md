@@ -1,5 +1,5 @@
 ---
 title: "Big 5 Sporting Goods"
-url: /albuquerque/big-5-sporting-goods/
+url: /albuquerque/big-5-sporting-goods-juan-tabo-boulevard-northeast/
 shop: sports
 ---

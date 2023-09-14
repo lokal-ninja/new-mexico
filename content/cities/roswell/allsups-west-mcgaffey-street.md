@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
-url: /roswell/allsups/
+url: /roswell/allsups-west-mcgaffey-street/
 shop: convenience
 ---

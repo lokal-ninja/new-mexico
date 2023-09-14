@@ -1,5 +1,5 @@
 ---
 title: "Dillard's"
-url: /albuquerque/dillards/
+url: /albuquerque/dillards-louisiana-boulevard-northeast/
 shop: department store
 ---

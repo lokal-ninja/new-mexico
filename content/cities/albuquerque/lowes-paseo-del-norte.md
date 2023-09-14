@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /albuquerque/lowes/
+url: /albuquerque/lowes-paseo-del-norte/
 shop: doityourself
 ---
