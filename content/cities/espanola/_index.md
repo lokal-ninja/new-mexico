@@ -1,6 +1,6 @@
 ---
 title: Espanola
 url: /espanola/
-latitude: 36.009
-longitude: -106.087
+latitude: 35.993
+longitude: -106.08
 ---
