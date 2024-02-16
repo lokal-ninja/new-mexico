@@ -7,5 +7,5 @@ city: Albuquerque
 street: "Lomas Boulevard Northeast"
 housenumber: 6010
 phone: "+1-505-315-9105"
-opening_hours: "Mo-Tu 11:00-19:00 PM We-Th 10:00-19:00 Fr-Sa 10:00-20:00 Su 11:00-17:00 PM"
+opening_hours: "Mo-Tu 11:00-19:00; We-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-17:00"
 website: ""
