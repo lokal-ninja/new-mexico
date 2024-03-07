@@ -1,6 +1,6 @@
 ---
 title: Portales
 url: /portales/
-latitude: 34.199
-longitude: -103.318
+latitude: 34.182
+longitude: -103.346
 ---
