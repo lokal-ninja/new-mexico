@@ -1,6 +1,6 @@
 ---
 title: Roswell
 url: /roswell/
-latitude: 33.399
-longitude: -104.523
+latitude: 33.395
+longitude: -104.559
 ---
