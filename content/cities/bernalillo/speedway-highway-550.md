@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /bloomfield/speedway-us-550/
+url: /bernalillo/speedway-highway-550/
 shop: convenience
 ---
