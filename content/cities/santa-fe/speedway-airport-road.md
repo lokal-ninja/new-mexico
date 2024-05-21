@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /alamogordo/speedway-highway-70-west/
+url: /santa-fe/speedway-airport-road/
 shop: convenience
 ---

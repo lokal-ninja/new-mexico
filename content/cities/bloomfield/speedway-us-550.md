@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /santa-fe/speedway-cerrillos-road-3/
+url: /bloomfield/speedway-us-550/
 shop: convenience
 ---
