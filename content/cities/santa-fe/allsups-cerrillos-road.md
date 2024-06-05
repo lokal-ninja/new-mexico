@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
-url: /roswell/allsups-west-2nd-street/
+url: /santa-fe/allsups-cerrillos-road/
 shop: convenience
 ---
