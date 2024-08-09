@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /los-lunas/family-dollar-meadow-lake-road/
+url: /cuba/family-dollar/
 shop: variety store
 ---
