@@ -1,6 +1,6 @@
 ---
 title: Vanderwagen
 url: /vanderwagen/
-latitude: 35.235
-longitude: -108.765
+latitude: 35.241
+longitude: -108.762
 ---
