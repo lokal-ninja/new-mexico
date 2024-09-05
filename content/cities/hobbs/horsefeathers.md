@@ -1,5 +1,5 @@
 ---
 title: "Horsefeathers"
 url: /hobbs/horsefeathers/
-shop: clothes
+shop: Kleidung
 ---

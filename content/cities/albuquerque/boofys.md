@@ -1,5 +1,5 @@
 ---
 title: "Boofy's"
 url: /albuquerque/boofys/
-shop: pet
+shop: Tiere
 ---

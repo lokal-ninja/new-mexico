@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /rio-rancho/petsmart/
-shop: pet
+shop: Tiere
 ---

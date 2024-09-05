@@ -1,5 +1,5 @@
 ---
 title: "Score"
 url: /raton/score/
-shop: antiques
+shop: Antiquitäten
 ---

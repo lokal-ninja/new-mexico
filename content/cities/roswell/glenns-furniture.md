@@ -1,5 +1,5 @@
 ---
 title: "Glenn's Furniture"
 url: /roswell/glenns-furniture/
-shop: furniture
+shop: Möbel
 ---

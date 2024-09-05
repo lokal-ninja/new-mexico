@@ -1,5 +1,5 @@
 ---
 title: "Rockies"
 url: /cimarron/rockies/
-shop: convenience
+shop: Lebensmittel
 ---

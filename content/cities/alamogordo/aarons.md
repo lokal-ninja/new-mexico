@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /alamogordo/aarons/
-shop: furniture
+shop: Möbel
 ---

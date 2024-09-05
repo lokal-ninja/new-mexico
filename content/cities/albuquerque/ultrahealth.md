@@ -1,5 +1,5 @@
 ---
 title: "UltraHealth"
 url: /albuquerque/ultrahealth/
-shop: cannabis
+shop: Hanf
 ---

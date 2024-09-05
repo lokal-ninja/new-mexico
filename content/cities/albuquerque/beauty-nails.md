@@ -1,5 +1,5 @@
 ---
 title: "Beauty Nails"
 url: /albuquerque/beauty-nails/
-shop: beauty
+shop: Kosmetik
 ---

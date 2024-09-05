@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /santa-rosa/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

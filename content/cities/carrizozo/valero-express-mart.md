@@ -1,5 +1,5 @@
 ---
 title: "Valero Express Mart"
 url: /carrizozo/valero-express-mart/
-shop: convenience
+shop: Lebensmittel
 ---

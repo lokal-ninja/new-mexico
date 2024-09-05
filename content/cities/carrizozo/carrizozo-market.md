@@ -1,5 +1,5 @@
 ---
 title: "Carrizozo Market"
 url: /carrizozo/carrizozo-market/
-shop: supermarket
+shop: Supermarkt
 ---

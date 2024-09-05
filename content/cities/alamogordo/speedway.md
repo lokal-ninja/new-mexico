@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /alamogordo/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

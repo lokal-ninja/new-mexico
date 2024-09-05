@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /farmington/safeway-east-main-street/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /raton/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

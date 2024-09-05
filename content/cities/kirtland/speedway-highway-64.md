@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /kirtland/speedway-highway-64/
-shop: convenience
+shop: Lebensmittel
 ---

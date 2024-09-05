@@ -1,5 +1,5 @@
 ---
 title: "Jim's Supermarket"
 url: /hatch/jims-supermarket/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GREATSKIN"
 url: /clayton/greatskin/
-shop: chemist
+shop: Drogerie
 ---

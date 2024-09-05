@@ -1,5 +1,5 @@
 ---
 title: "Hatch Chile Market"
 url: /hatch/hatch-chile-market/
-shop: supermarket
+shop: Supermarkt
 ---

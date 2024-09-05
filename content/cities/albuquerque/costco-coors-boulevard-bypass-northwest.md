@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /albuquerque/costco-coors-boulevard-bypass-northwest/
-shop: wholesale
+shop: Großhandel
 ---

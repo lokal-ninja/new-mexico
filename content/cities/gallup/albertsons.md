@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /gallup/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---

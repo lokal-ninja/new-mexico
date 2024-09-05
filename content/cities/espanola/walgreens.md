@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /espanola/walgreens/
-shop: chemist
+shop: Drogerie
 ---

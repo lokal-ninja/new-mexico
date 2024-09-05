@@ -1,5 +1,5 @@
 ---
 title: "Mesa Canyon Community Store"
 url: /tohajiilee/mesa-canyon-community-store/
-shop: general
+shop: Dorfladen
 ---

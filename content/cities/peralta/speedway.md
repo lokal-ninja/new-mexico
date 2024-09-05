@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /peralta/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

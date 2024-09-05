@@ -1,5 +1,5 @@
 ---
 title: "Laundromat"
 url: /las-cruces/laundromat/
-shop: laundry
+shop: Wäscherei
 ---

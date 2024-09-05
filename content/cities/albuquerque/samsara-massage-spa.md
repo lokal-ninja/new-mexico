@@ -1,5 +1,5 @@
 ---
 title: "Samsara Massage Spa"
 url: /albuquerque/samsara-massage-spa/
-shop: massage
+shop: Massage
 ---

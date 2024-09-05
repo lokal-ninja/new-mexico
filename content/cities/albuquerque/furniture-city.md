@@ -1,5 +1,5 @@
 ---
 title: "Furniture City"
 url: /albuquerque/furniture-city/
-shop: furniture
+shop: Möbel
 ---

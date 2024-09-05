@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /gallup/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

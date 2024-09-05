@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /albuquerque/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holiday Salon"
 url: /santa-fe/holiday-salon/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /albuquerque/walgreens/
-shop: chemist
+shop: Drogerie
 ---

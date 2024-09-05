@@ -1,5 +1,5 @@
 ---
 title: "Seductions"
 url: /albuquerque/seductions/
-shop: erotic
+shop: Erotik
 ---

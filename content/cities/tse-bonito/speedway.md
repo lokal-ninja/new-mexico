@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /tse-bonito/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

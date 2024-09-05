@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /tularosa/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

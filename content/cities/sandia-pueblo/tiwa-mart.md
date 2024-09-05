@@ -1,5 +1,5 @@
 ---
 title: "Tiwa Mart"
 url: /sandia-pueblo/tiwa-mart/
-shop: convenience
+shop: Lebensmittel
 ---

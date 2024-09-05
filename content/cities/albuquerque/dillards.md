@@ -1,5 +1,5 @@
 ---
 title: "Dillard's"
 url: /albuquerque/dillards/
-shop: department store
+shop: Warenhaus
 ---

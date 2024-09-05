@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /hobbs/cato/
-shop: clothes
+shop: Kleidung
 ---

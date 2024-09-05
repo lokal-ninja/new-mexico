@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /gallup/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xuan Xuan"
 url: /santa-fe/xuan-xuan/
-shop: massage
+shop: Massage
 ---

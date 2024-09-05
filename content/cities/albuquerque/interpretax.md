@@ -1,5 +1,5 @@
 ---
 title: "Interpretax"
 url: /albuquerque/interpretax/
-shop: shop
+shop: Allgemein
 ---

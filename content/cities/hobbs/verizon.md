@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /hobbs/verizon/
-shop: mobile phone
+shop: Handy
 ---

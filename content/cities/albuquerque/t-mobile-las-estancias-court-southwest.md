@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /albuquerque/t-mobile-las-estancias-court-southwest/
-shop: mobile phone
+shop: Handy
 ---
