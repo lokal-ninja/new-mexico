@@ -1,5 +1,5 @@
 ---
 title: "Tome On The Range"
 url: /las-vegas/tome-on-the-range/
-shop: Bücher
+shop: books
 ---

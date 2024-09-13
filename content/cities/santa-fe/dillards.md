@@ -1,5 +1,5 @@
 ---
 title: "Dillard's"
 url: /santa-fe/dillards/
-shop: Warenhaus
+shop: department store
 ---

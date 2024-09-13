@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /taos/speedway-paseo-del-pueblo-sur/
-shop: Lebensmittel
+shop: convenience
 ---

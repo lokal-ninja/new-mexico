@@ -1,5 +1,5 @@
 ---
 title: "Lucille’s Laundry"
 url: /hatch/lucilles-laundry/
-shop: Wäscherei
+shop: laundry
 ---

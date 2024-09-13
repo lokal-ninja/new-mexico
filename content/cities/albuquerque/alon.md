@@ -1,5 +1,5 @@
 ---
 title: "Alon"
 url: /albuquerque/alon/
-shop: Lebensmittel
+shop: convenience
 ---

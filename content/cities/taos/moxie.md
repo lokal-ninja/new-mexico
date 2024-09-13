@@ -1,5 +1,5 @@
 ---
 title: "Moxie"
 url: /taos/moxie/
-shop: Allgemein
+shop: shop
 ---

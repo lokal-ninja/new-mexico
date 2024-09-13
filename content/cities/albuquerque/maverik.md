@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /albuquerque/maverik/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clark's Pet Emporium"
 url: /albuquerque/clarks-pet-emporium/
-shop: Tiere
+shop: pet
 ---

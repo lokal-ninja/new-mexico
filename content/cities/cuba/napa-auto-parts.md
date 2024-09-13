@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /cuba/napa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

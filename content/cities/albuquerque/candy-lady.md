@@ -1,5 +1,5 @@
 ---
 title: "Candy Lady"
 url: /albuquerque/candy-lady/
-shop: Süßwaren
+shop: confectionery
 ---

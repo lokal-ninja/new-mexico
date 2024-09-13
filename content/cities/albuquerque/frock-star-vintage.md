@@ -1,5 +1,5 @@
 ---
 title: "Frock Star Vintage"
 url: /albuquerque/frock-star-vintage/
-shop: Kleidung
+shop: clothes
 ---

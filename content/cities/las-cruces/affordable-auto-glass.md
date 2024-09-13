@@ -1,5 +1,5 @@
 ---
 title: "Affordable Auto Glass"
 url: /las-cruces/affordable-auto-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

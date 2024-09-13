@@ -1,5 +1,5 @@
 ---
 title: "Pony Therapeutic Massage"
 url: /santa-fe/pony-therapeutic-massage/
-shop: Massage
+shop: massage
 ---

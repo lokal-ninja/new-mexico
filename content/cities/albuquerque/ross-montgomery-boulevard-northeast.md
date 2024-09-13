@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /albuquerque/ross-montgomery-boulevard-northeast/
-shop: Warenhaus
+shop: department store
 ---

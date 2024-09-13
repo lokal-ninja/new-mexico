@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /jal/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

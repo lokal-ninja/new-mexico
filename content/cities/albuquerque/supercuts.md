@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /albuquerque/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

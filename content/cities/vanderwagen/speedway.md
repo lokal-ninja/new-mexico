@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /vanderwagen/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /roswell/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

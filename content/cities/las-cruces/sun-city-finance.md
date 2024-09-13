@@ -1,5 +1,5 @@
 ---
 title: "Sun City Finance"
 url: /las-cruces/sun-city-finance/
-shop: Leiher
+shop: pawnbroker
 ---

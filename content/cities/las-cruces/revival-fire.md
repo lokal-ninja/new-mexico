@@ -1,5 +1,5 @@
 ---
 title: "Revival Fire"
 url: /las-cruces/revival-fire/
-shop: Bücher
+shop: books
 ---

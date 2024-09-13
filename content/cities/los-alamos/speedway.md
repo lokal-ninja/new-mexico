@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /los-alamos/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

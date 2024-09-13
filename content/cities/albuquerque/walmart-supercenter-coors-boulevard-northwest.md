@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /albuquerque/walmart-supercenter-coors-boulevard-northwest/
-shop: Supermarkt
+shop: supermarket
 ---

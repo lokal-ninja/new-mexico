@@ -1,5 +1,5 @@
 ---
 title: "Super Groomers"
 url: /taos/super-groomers/
-shop: Tiersalon
+shop: pet grooming
 ---

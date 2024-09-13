@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /sunland-park/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

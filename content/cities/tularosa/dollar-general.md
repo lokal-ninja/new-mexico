@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /tularosa/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

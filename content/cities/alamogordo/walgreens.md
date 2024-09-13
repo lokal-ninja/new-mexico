@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /alamogordo/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "R. Greenleaf"
 url: /santa-fe/r-greenleaf/
-shop: Hanf
+shop: cannabis
 ---

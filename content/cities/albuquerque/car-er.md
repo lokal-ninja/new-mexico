@@ -1,5 +1,5 @@
 ---
 title: "Car-ER"
 url: /albuquerque/car-er/
-shop: Autowerkstatt
+shop: car repair
 ---

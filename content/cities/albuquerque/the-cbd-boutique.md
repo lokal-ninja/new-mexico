@@ -1,5 +1,5 @@
 ---
 title: "The CBD Boutique"
 url: /albuquerque/the-cbd-boutique/
-shop: Kräuter
+shop: herbalist
 ---

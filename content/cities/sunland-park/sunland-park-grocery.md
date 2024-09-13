@@ -1,5 +1,5 @@
 ---
 title: "Sunland Park Grocery"
 url: /sunland-park/sunland-park-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

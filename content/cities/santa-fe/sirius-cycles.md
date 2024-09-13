@@ -1,5 +1,5 @@
 ---
 title: "Sirius Cycles"
 url: /santa-fe/sirius-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

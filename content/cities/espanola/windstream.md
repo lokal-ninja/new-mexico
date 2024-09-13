@@ -1,5 +1,5 @@
 ---
 title: "Windstream"
 url: /espanola/windstream/
-shop: Handy
+shop: mobile phone
 ---

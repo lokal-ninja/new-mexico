@@ -1,5 +1,5 @@
 ---
 title: "Beauty In Wellness"
 url: /albuquerque/beauty-in-wellness/
-shop: Kosmetik
+shop: beauty
 ---

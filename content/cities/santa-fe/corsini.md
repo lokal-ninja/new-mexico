@@ -1,5 +1,5 @@
 ---
 title: "Corsini"
 url: /santa-fe/corsini/
-shop: Kleidung
+shop: clothes
 ---

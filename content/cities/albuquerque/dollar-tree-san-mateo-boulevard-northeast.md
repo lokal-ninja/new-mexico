@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /albuquerque/dollar-tree-san-mateo-boulevard-northeast/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
 url: /albuquerque/smiths-wyoming-boulevard-northeast/
-shop: Supermarkt
+shop: supermarket
 ---

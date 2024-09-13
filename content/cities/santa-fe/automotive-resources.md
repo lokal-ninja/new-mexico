@@ -1,5 +1,5 @@
 ---
 title: "Automotive Resources"
 url: /santa-fe/automotive-resources/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "J.Crew"
 url: /santa-fe/j-crew/
-shop: Kleidung
+shop: clothes
 ---

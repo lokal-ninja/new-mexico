@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /estancia/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

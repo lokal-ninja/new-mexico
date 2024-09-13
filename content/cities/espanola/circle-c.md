@@ -1,5 +1,5 @@
 ---
 title: "Circle C"
 url: /espanola/circle-c/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Portales Radiator"
 url: /portales/portales-radiator/
-shop: Autowerkstatt
+shop: car repair
 ---

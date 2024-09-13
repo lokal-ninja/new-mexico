@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /albuquerque/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

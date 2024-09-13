@@ -1,5 +1,5 @@
 ---
 title: "Henderson Store"
 url: /golden/henderson-store/
-shop: Andenken
+shop: gift
 ---

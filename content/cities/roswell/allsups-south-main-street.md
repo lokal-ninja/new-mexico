@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
 url: /roswell/allsups-south-main-street/
-shop: Lebensmittel
+shop: convenience
 ---

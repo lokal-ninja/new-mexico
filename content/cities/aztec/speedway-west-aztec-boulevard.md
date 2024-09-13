@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /aztec/speedway-west-aztec-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

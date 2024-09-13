@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /santa-fe/autozone-cerrillos-road/
-shop: Autoteile
+shop: car parts
 ---

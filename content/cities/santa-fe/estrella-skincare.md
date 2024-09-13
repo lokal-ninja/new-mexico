@@ -1,5 +1,5 @@
 ---
 title: "Estrella Skincare"
 url: /santa-fe/estrella-skincare/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Potteryland"
 url: /albuquerque/potteryland/
-shop: Kunst
+shop: art
 ---

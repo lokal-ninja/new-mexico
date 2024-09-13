@@ -1,5 +1,5 @@
 ---
 title: "Saucedo's Super Market"
 url: /lordsburg/saucedos-super-market/
-shop: Supermarkt
+shop: supermarket
 ---

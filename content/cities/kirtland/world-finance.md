@@ -1,5 +1,5 @@
 ---
 title: "World Finance"
 url: /kirtland/world-finance/
-shop: Leiher
+shop: pawnbroker
 ---

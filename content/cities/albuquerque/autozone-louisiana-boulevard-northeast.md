@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /albuquerque/autozone-louisiana-boulevard-northeast/
-shop: Autoteile
+shop: car parts
 ---

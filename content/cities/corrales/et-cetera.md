@@ -1,5 +1,5 @@
 ---
 title: "ET Cetera"
 url: /corrales/et-cetera/
-shop: Gebrauchtwaren
+shop: charity
 ---

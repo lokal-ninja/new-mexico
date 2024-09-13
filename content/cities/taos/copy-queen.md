@@ -1,5 +1,5 @@
 ---
 title: "Copy Queen"
 url: /taos/copy-queen/
-shop: Kopieren
+shop: copyshop
 ---

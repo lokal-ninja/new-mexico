@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /albuquerque/petco-lomas-boulevard-northeast/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amanda’s Store"
 url: /jemez-springs/amandas-store/
-shop: Lebensmittel
+shop: convenience
 ---

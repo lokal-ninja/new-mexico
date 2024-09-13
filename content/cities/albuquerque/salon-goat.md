@@ -1,5 +1,5 @@
 ---
 title: "Salon Goat"
 url: /albuquerque/salon-goat/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /hobbs/discount-tire/
-shop: Reifen
+shop: tyres
 ---

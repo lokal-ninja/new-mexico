@@ -1,5 +1,5 @@
 ---
 title: "Sahds"
 url: /penasco/sahds/
-shop: Eisenwaren
+shop: hardware
 ---

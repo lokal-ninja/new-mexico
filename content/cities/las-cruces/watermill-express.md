@@ -1,5 +1,5 @@
 ---
 title: "Watermill Express"
 url: /las-cruces/watermill-express/
-shop: Wasser
+shop: water
 ---

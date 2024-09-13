@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /tatum/stripes/
-shop: Lebensmittel
+shop: convenience
 ---

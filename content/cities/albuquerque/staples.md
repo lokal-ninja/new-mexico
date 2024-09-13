@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /albuquerque/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

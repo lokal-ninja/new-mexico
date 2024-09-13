@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /albuquerque/insomnia-cookies/
-shop: Konditorei
+shop: pastry
 ---

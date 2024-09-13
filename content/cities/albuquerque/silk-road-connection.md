@@ -1,5 +1,5 @@
 ---
 title: "Silk Road Connection"
 url: /albuquerque/silk-road-connection/
-shop: Kleidung
+shop: clothes
 ---

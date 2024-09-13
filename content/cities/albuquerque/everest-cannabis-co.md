@@ -1,5 +1,5 @@
 ---
 title: "Everest Cannabis Co."
 url: /albuquerque/everest-cannabis-co/
-shop: Hanf
+shop: cannabis
 ---

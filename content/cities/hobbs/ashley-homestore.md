@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /hobbs/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

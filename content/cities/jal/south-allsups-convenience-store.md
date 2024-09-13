@@ -1,5 +1,5 @@
 ---
 title: "South Allsup's Convenience Store"
 url: /jal/south-allsups-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

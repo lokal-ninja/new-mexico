@@ -1,5 +1,5 @@
 ---
 title: "Santa Kilim"
 url: /santa-fe/santa-kilim-camino-del-monte-sol/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jet Son"
 url: /truth-or-consequences/jet-son/
-shop: Autowerkstatt
+shop: car repair
 ---

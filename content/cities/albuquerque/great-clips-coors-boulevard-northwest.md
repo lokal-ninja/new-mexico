@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /albuquerque/great-clips-coors-boulevard-northwest/
-shop: Friseur
+shop: hairdresser
 ---

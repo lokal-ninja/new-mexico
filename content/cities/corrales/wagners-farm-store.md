@@ -1,5 +1,5 @@
 ---
 title: "Wagner's Farm Store"
 url: /corrales/wagners-farm-store/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

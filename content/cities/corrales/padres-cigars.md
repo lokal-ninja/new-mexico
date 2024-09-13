@@ -1,5 +1,5 @@
 ---
 title: "Padres Cigars"
 url: /corrales/padres-cigars/
-shop: Tabak
+shop: tobacco
 ---

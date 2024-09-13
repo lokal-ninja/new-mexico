@@ -1,5 +1,5 @@
 ---
 title: "Audio Express"
 url: /albuquerque/audio-express/
-shop: Hifi
+shop: hifi
 ---

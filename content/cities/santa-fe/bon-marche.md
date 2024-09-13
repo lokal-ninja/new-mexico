@@ -1,5 +1,5 @@
 ---
 title: "Bon Marché"
 url: /santa-fe/bon-marche/
-shop: Haushaltsartikel
+shop: houseware
 ---

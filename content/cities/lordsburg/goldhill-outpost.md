@@ -1,5 +1,5 @@
 ---
 title: "Goldhill Outpost"
 url: /lordsburg/goldhill-outpost/
-shop: Andenken
+shop: gift
 ---

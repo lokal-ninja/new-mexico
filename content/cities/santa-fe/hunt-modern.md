@@ -1,5 +1,5 @@
 ---
 title: "Hunt Modern"
 url: /santa-fe/hunt-modern/
-shop: Möbel
+shop: furniture
 ---

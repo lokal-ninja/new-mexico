@@ -1,5 +1,5 @@
 ---
 title: "Alon"
 url: /carrizozo/alon/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
 url: /rio-rancho/fiiz-drinks/
-shop: Getränke
+shop: beverages
 ---

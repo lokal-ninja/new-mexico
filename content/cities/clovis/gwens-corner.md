@@ -1,5 +1,5 @@
 ---
 title: "Gwen's Corner"
 url: /clovis/gwens-corner/
-shop: Kleidung
+shop: clothes
 ---

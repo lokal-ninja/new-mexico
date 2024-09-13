@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /roswell/target/
-shop: Warenhaus
+shop: department store
 ---

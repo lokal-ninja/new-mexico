@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /albuquerque/michaels/
-shop: Basteln
+shop: craft
 ---

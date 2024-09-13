@@ -1,5 +1,5 @@
 ---
 title: "Spirit"
 url: /santa-fe/spirit/
-shop: Kleidung
+shop: clothes
 ---

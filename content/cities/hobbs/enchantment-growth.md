@@ -1,5 +1,5 @@
 ---
 title: "Enchantment Growth"
 url: /hobbs/enchantment-growth/
-shop: Hanf
+shop: cannabis
 ---

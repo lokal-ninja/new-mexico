@@ -1,5 +1,5 @@
 ---
 title: "Western Mercantile"
 url: /tijeras/western-mercantile/
-shop: Antiquitäten
+shop: antiques
 ---

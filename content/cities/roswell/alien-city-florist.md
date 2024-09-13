@@ -1,5 +1,5 @@
 ---
 title: "Alien City Florist"
 url: /roswell/alien-city-florist/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fringe Hair Studio"
 url: /albuquerque/fringe-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

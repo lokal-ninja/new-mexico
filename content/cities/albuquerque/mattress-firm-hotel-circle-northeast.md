@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /albuquerque/mattress-firm-hotel-circle-northeast/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "B-Street Market"
 url: /mountainair/b-street-market/
-shop: Lebensmittel
+shop: convenience
 ---

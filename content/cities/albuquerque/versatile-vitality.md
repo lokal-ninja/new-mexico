@@ -1,5 +1,5 @@
 ---
 title: "Versatile Vitality"
 url: /albuquerque/versatile-vitality/
-shop: Massage
+shop: massage
 ---

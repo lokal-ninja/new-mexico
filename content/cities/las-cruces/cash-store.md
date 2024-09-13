@@ -1,5 +1,5 @@
 ---
 title: "Cash Store"
 url: /las-cruces/cash-store/
-shop: Leiher
+shop: pawnbroker
 ---

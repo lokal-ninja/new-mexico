@@ -1,5 +1,5 @@
 ---
 title: "Indigo Baby"
 url: /santa-fe/indigo-baby/
-shop: Babysachen
+shop: baby goods
 ---

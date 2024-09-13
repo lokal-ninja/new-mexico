@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /las-cruces/dollar-general-parkhill-drive/
-shop: Kramladen
+shop: variety store
 ---

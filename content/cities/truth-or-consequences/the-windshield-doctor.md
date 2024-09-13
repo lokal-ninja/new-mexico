@@ -1,5 +1,5 @@
 ---
 title: "The Windshield Doctor"
 url: /truth-or-consequences/the-windshield-doctor/
-shop: Autowerkstatt
+shop: car repair
 ---

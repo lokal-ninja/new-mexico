@@ -1,5 +1,5 @@
 ---
 title: "The Fragrant Leaf"
 url: /albuquerque/the-fragrant-leaf/
-shop: Tee
+shop: tea
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mark Pardo SalonSpa"
 url: /albuquerque/mark-pardo-salonspa-louisiana-boulevard-northeast/
-shop: Kosmetik
+shop: beauty
 ---

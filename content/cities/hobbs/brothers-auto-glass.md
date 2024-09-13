@@ -1,5 +1,5 @@
 ---
 title: "Brothers Auto Glass"
 url: /hobbs/brothers-auto-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

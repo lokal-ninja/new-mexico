@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /albuquerque/costco/
-shop: Großhandel
+shop: wholesale
 ---

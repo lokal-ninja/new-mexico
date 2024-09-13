@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /carlsbad/ross/
-shop: Warenhaus
+shop: department store
 ---

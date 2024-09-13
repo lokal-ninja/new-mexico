@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /albuquerque/kohls/
-shop: Warenhaus
+shop: department store
 ---

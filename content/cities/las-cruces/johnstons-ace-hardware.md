@@ -1,5 +1,5 @@
 ---
 title: "Johnston's Ace Hardware"
 url: /las-cruces/johnstons-ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

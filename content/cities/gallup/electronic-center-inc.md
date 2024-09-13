@@ -1,5 +1,5 @@
 ---
 title: "Electronic Center Inc"
 url: /gallup/electronic-center-inc/
-shop: Radiotechnik
+shop: radiotechnics
 ---

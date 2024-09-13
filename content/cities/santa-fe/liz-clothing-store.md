@@ -1,5 +1,5 @@
 ---
 title: "Liz Clothing Store"
 url: /santa-fe/liz-clothing-store/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seven Clover"
 url: /albuquerque/seven-clover/
-shop: Hanf
+shop: cannabis
 ---

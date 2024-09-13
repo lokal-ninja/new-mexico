@@ -1,5 +1,5 @@
 ---
 title: "Chisum"
 url: /alto/chisum/
-shop: Lebensmittel
+shop: convenience
 ---

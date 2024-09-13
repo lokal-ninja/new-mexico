@@ -1,5 +1,5 @@
 ---
 title: "Nailspa De Taos"
 url: /taos/nailspa-de-taos/
-shop: Kosmetik
+shop: beauty
 ---

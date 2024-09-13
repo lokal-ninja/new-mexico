@@ -1,5 +1,5 @@
 ---
 title: "Pandora's"
 url: /santa-fe/pandoras/
-shop: Betten
+shop: bed
 ---

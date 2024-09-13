@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /santa-fe/speedway-cerrillos-road/
-shop: Lebensmittel
+shop: convenience
 ---

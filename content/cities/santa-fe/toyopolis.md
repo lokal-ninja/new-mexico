@@ -1,5 +1,5 @@
 ---
 title: "Toyopolis"
 url: /santa-fe/toyopolis/
-shop: Spielzeug
+shop: toys
 ---

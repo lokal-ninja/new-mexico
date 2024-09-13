@@ -1,5 +1,5 @@
 ---
 title: "Herman's Garage"
 url: /thoreau/hermans-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

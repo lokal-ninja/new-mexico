@@ -1,5 +1,5 @@
 ---
 title: "Rodeo Plaza Flowers"
 url: /santa-fe/rodeo-plaza-flowers/
-shop: Blumen
+shop: florist
 ---

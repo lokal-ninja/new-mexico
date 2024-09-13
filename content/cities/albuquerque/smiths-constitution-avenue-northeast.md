@@ -1,5 +1,5 @@
 ---
 title: "Smith's"
 url: /albuquerque/smiths-constitution-avenue-northeast/
-shop: Supermarkt
+shop: supermarket
 ---

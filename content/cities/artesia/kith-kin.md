@@ -1,5 +1,5 @@
 ---
 title: "Kith+Kin"
 url: /artesia/kith-kin/
-shop: Kaffee
+shop: coffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quality Liquir Store"
 url: /roswell/quality-liquir-store/
-shop: Spirituosen
+shop: alcohol
 ---

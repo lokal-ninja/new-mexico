@@ -1,5 +1,5 @@
 ---
 title: "General Store"
 url: /loco-hills/general-store/
-shop: Dorfladen
+shop: general
 ---

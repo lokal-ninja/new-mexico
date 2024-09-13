@@ -1,5 +1,5 @@
 ---
 title: "Bealls"
 url: /carlsbad/bealls/
-shop: Kleidung
+shop: clothes
 ---

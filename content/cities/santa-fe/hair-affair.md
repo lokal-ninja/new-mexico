@@ -1,5 +1,5 @@
 ---
 title: "Hair Affair"
 url: /santa-fe/hair-affair/
-shop: Friseur
+shop: hairdresser
 ---

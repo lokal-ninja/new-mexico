@@ -1,5 +1,5 @@
 ---
 title: "SunCare"
 url: /albuquerque/suncare/
-shop: Kosmetik
+shop: beauty
 ---

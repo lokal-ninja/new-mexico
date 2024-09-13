@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /la-plata/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

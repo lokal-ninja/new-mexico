@@ -1,5 +1,5 @@
 ---
 title: "Chile Fanatic"
 url: /hatch/chile-fanatic/
-shop: Supermarkt
+shop: supermarket
 ---

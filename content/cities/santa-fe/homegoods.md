@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /santa-fe/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

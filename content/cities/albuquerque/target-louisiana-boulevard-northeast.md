@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /albuquerque/target-louisiana-boulevard-northeast/
-shop: Warenhaus
+shop: department store
 ---
