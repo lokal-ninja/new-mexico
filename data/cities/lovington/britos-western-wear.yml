@@ -1,11 +1,11 @@
 id: 1260657089
-type: way
+type: node
 latitude: 32.93933
 longitude: -103.3485
 postcode: ""
 city: Lovington
-street: "South Main Avenue"
-housenumber: 911
-phone: "+1-575-396-5460"
+street: South Main Avenue
+housenumber: "911"
+phone: +1-575-396-5460
 opening_hours: ""
 website: ""

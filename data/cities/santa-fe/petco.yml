@@ -1,11 +1,11 @@
 id: 1184833502
-type: way
+type: node
 latitude: 35.6608
 longitude: -105.97743
 postcode: "87505"
 city: Santa Fe
-street: "Cerrillos Road"
-housenumber: 2006
-phone: "+1 505-424-1667"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/nm/santafe/pet-supplies-santafe-nm-1103.html"
+street: Cerrillos Road
+housenumber: "2006"
+phone: +1 505-424-1667
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/nm/santafe/pet-supplies-santafe-nm-1103.html

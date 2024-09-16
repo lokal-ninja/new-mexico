@@ -1,11 +1,11 @@
 id: 1008938674
-type: way
+type: node
 latitude: 32.29448
 longitude: -106.80328
 postcode: ""
 city: Las Cruces
-street: "Lakeside Drive"
-housenumber: 2499
+street: Lakeside Drive
+housenumber: "2499"
 phone: ""
 opening_hours: ""
 website: ""

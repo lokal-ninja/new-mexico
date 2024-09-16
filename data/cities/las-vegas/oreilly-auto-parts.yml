@@ -4,8 +4,8 @@ latitude: 35.61991
 longitude: -105.22498
 postcode: "87701"
 city: Las Vegas
-street: "7th Street"
-housenumber: 2514
+street: 7th Street
+housenumber: "2514"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/nm/lasvegas/autoparts-3755.html"
+website: https://locations.oreillyauto.com/nm/lasvegas/autoparts-3755.html

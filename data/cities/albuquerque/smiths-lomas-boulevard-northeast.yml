@@ -1,11 +1,11 @@
 id: 683302560
-type: way
+type: node
 latitude: 35.08848
 longitude: -106.57953
 postcode: "87110"
 city: Albuquerque
-street: "Lomas Boulevard Northeast"
-housenumber: 6001
-phone: "+1 505-266-7433"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.smithsfoodanddrug.com/stores/grocery/nm/albuquerque/fair-plaza-shopping-center/706/00446"
+street: Lomas Boulevard Northeast
+housenumber: "6001"
+phone: +1 505-266-7433
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.smithsfoodanddrug.com/stores/grocery/nm/albuquerque/fair-plaza-shopping-center/706/00446

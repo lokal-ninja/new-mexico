@@ -1,11 +1,11 @@
 id: 782581591
-type: way
+type: node
 latitude: 36.90145
 longitude: -104.4385
 postcode: "87740"
 city: Raton
-street: "South 1st Street"
-housenumber: 134
+street: South 1st Street
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

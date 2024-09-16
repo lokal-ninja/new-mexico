@@ -1,11 +1,11 @@
 id: 612531777
-type: way
+type: node
 latitude: 32.73929
 longitude: -103.14265
 postcode: "88240"
 city: Hobbs
-street: "West Navajo Drive"
-housenumber: 601
+street: West Navajo Drive
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

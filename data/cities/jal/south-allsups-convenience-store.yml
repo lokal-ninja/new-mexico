@@ -1,11 +1,11 @@
 id: 851443844
-type: way
+type: node
 latitude: 32.10889
 longitude: -103.19395
 postcode: "88252"
 city: Jal
-street: "South 3rd Street"
-housenumber: 501
+street: South 3rd Street
+housenumber: "501"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

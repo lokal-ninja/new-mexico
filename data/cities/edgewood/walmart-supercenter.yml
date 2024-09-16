@@ -1,11 +1,11 @@
 id: 710392657
-type: way
+type: node
 latitude: 35.07004
 longitude: -106.18756
-postcode: "87015-6849"
+postcode: 87015-6849
 city: Edgewood
-street: "NM-344"
-housenumber: 66
-phone: "+1-505-286-3043"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/4201-edgewood-nm"
+street: NM-344
+housenumber: "66"
+phone: +1-505-286-3043
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/4201-edgewood-nm

@@ -4,8 +4,8 @@ latitude: 36.45132
 longitude: -103.18485
 postcode: ""
 city: Clayton
-street: "Main Street"
-housenumber: 10
-phone: "+1 575-374-5221"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "http://www.nunnco.com/"
+street: Main Street
+housenumber: "10"
+phone: +1 575-374-5221
+opening_hours: Mo-Sa 09:00-17:00
+website: http://www.nunnco.com/

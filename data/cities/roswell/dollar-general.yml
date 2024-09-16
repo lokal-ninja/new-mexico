@@ -1,11 +1,11 @@
 id: 716978529
-type: way
+type: node
 latitude: 33.32501
 longitude: -104.52267
 postcode: "88203"
 city: Roswell
-street: "South Main Street"
-housenumber: 5829
+street: South Main Street
+housenumber: "5829"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nm/roswell/11830"
+website: https://www.dollargeneral.com/store-directory/nm/roswell/11830

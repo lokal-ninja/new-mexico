@@ -1,11 +1,11 @@
 id: 705785050
-type: way
+type: node
 latitude: 35.13566
 longitude: -106.61835
 postcode: "87107"
 city: Albuquerque
-street: "North Renaissance Boulevard Northeast"
-housenumber: 1220
-phone: "+1 505-344-1900"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/montano/nm/albuquerque/87107/3502"
+street: North Renaissance Boulevard Northeast
+housenumber: "1220"
+phone: +1 505-344-1900
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/montano/nm/albuquerque/87107/3502

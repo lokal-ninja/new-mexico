@@ -1,11 +1,11 @@
 id: 624156938
-type: way
+type: node
 latitude: 34.51859
 longitude: -106.24752
 postcode: "87036"
 city: Mountainair
-street: "W Forest"
-housenumber: 209
-phone: "505-847-2501"
+street: W Forest
+housenumber: "209"
+phone: 505-847-2501
 opening_hours: ""
 website: ""

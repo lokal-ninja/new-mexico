@@ -1,11 +1,11 @@
 id: 385503378
-type: way
+type: node
 latitude: 34.59475
 longitude: -105.1898
 postcode: "88353"
 city: Vaughn
-street: "8th Street"
-housenumber: 1307
+street: 8th Street
+housenumber: "1307"
 phone: ""
 opening_hours: ""
 website: ""

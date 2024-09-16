@@ -1,11 +1,11 @@
 id: 588814934
-type: way
+type: node
 latitude: 35.10847
 longitude: -106.51699
 postcode: "87112"
 city: Albuquerque
-street: "Menaul Boulevard Northeast"
-housenumber: 11200
+street: Menaul Boulevard Northeast
+housenumber: "11200"
 phone: ""
-opening_hours: "09:00-19:00"
+opening_hours: 09:00-19:00
 website: ""

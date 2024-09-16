@@ -1,11 +1,11 @@
 id: 348434392
-type: way
+type: node
 latitude: 35.07237
 longitude: -106.56119
 postcode: "87108"
 city: Albuquerque
-street: "Zuni Road Southeast"
-housenumber: 7800
-phone: "+1 505 2660661"
+street: Zuni Road Southeast
+housenumber: "7800"
+phone: +1 505 2660661
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 420602215
-type: way
+type: node
 latitude: 34.94123
 longitude: -104.6873
 postcode: "88435"
 city: Santa Rosa
-street: "South 4th Street"
-housenumber: 117
+street: South 4th Street
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

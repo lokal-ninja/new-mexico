@@ -1,11 +1,11 @@
 id: 169509049
-type: way
+type: node
 latitude: 35.08278
 longitude: -106.52715
 postcode: "87123"
 city: Albuquerque
-street: "Hotel Circle Northeast"
-housenumber: 55
-phone: "+1 505 2983585"
+street: Hotel Circle Northeast
+housenumber: "55"
+phone: +1 505 2983585
 opening_hours: ""
-website: "http://stores.bestbuy.com/223/"
+website: http://stores.bestbuy.com/223/

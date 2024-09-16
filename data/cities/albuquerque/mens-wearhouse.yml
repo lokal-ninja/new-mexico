@@ -1,11 +1,12 @@
 id: 617723633
-type: way
+type: node
 latitude: 35.0968
 longitude: -106.56505
 postcode: "87110"
 city: Albuquerque
-street: "Louisiana Boulevard Northeast"
-housenumber: 2100
-phone: "+1-505-883-0161"
-opening_hours: "Su 11:30-18:00, Mo 10:30-20:30, Tu-We 10:30-20:00, Th 10:00-20:30, Fr-Sa 10:00-20:00"
-website: "https://www.menswearhouse.com/store-locator/1230"
+street: Louisiana Boulevard Northeast
+housenumber: "2100"
+phone: +1-505-883-0161
+opening_hours: Su 11:30-18:00, Mo 10:30-20:30, Tu-We 10:30-20:00, Th 10:00-20:30,
+    Fr-Sa 10:00-20:00
+website: https://www.menswearhouse.com/store-locator/1230

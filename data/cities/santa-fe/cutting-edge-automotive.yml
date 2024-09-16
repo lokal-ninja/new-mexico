@@ -1,11 +1,11 @@
 id: 475410733
-type: way
+type: node
 latitude: 35.66643
 longitude: -105.95954
 postcode: "87505"
 city: Santa Fe
-street: "Camino de Monte Rey"
-housenumber: 837
+street: Camino de Monte Rey
+housenumber: "837"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 799255699
-type: way
+type: node
 latitude: 35.65843
 longitude: -105.9933
 postcode: "87507"
 city: Santa Fe
-street: "Siler Road"
-housenumber: 1260
+street: Siler Road
+housenumber: "1260"
 phone: ""
 opening_hours: ""
 website: ""

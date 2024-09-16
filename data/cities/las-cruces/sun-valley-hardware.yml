@@ -1,11 +1,11 @@
 id: 110607666
-type: way
+type: node
 latitude: 32.27327
 longitude: -106.76414
 postcode: "88047"
 city: Las Cruces
-street: "South Main Street"
-housenumber: 3563
-phone: "+1-575-647-3648"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.sunvalleyinc.net/"
+street: South Main Street
+housenumber: "3563"
+phone: +1-575-647-3648
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.sunvalleyinc.net/

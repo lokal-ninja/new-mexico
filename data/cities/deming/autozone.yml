@@ -1,11 +1,11 @@
 id: 245735379
-type: way
+type: node
 latitude: 32.26823
 longitude: -107.74691
 postcode: "88030"
 city: Deming
-street: "East Pine Street"
-housenumber: 1100
-phone: "+1 575 544 0044"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/nm/deming/1100-motel-dr.html"
+street: East Pine Street
+housenumber: "1100"
+phone: +1 575 544 0044
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/nm/deming/1100-motel-dr.html

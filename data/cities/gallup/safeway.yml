@@ -1,11 +1,11 @@
 id: 132987427
-type: way
+type: node
 latitude: 35.53597
 longitude: -108.75674
 postcode: "87301"
 city: Gallup
-street: "North Highway 666"
-housenumber: 980
-phone: "+1 505-722-7620"
+street: North Highway 666
+housenumber: "980"
+phone: +1 505-722-7620
 opening_hours: ""
-website: "https://local.safeway.com/safeway/nm/gallup/980-n-hwy-491.html"
+website: https://local.safeway.com/safeway/nm/gallup/980-n-hwy-491.html

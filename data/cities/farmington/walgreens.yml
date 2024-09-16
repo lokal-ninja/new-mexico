@@ -1,11 +1,11 @@
 id: 647874599
-type: way
+type: node
 latitude: 36.7475
 longitude: -108.19741
 postcode: "87401"
 city: Farmington
-street: "East 20th Street"
-housenumber: 701
+street: East 20th Street
+housenumber: "701"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-701+e+20th+st-farmington-nm-87401/id=9067"
+website: https://www.walgreens.com/locator/walgreens-701+e+20th+st-farmington-nm-87401/id=9067

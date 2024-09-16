@@ -1,11 +1,11 @@
 id: 1105607697
-type: way
+type: node
 latitude: 34.34279
 longitude: -108.49568
 postcode: "87829"
 city: Quemado
-street: "California Street"
-housenumber: 
+street: California Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

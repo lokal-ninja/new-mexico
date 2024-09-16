@@ -1,11 +1,11 @@
 id: 443243066
-type: way
+type: node
 latitude: 35.62946
 longitude: -106.02229
 postcode: "87507"
 city: Santa Fe
-street: "Cerrillos Road"
-housenumber: 4490
+street: Cerrillos Road
+housenumber: "4490"
 phone: ""
 opening_hours: ""
 website: ""

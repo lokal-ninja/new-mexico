@@ -1,11 +1,11 @@
 id: 867755198
-type: way
+type: node
 latitude: 35.09544
 longitude: -106.5514
 postcode: "87112"
 city: Albuquerque
-street: "Wyoming Boulevard Northeast"
-housenumber: 1421
-phone: "+1 505 504 7847)"
+street: Wyoming Boulevard Northeast
+housenumber: "1421"
+phone: +1 505 504 7847)
 opening_hours: ""
-website: "https://serafians.com"
+website: https://serafians.com

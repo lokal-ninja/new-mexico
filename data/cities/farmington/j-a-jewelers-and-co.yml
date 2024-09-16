@@ -1,11 +1,11 @@
 id: 619598693
-type: way
+type: node
 latitude: 36.74783
 longitude: -108.16757
 postcode: "87402"
 city: Farmington
-street: "East 20th Street"
-housenumber: 2909
+street: East 20th Street
+housenumber: "2909"
 phone: ""
 opening_hours: ""
-website: "https://jajewels.com/"
+website: https://jajewels.com/

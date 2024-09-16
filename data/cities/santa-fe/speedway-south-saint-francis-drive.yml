@@ -1,11 +1,11 @@
 id: 318069399
-type: way
+type: node
 latitude: 35.67634
 longitude: -105.95311
 postcode: "87505"
 city: Santa Fe
-street: "South Saint Francis Drive"
-housenumber: 1009
+street: South Saint Francis Drive
+housenumber: "1009"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NM/Santa-Fe/1009-South-St-Francis-Dr"
+website: https://www.speedway.com/locations/NM/Santa-Fe/1009-South-St-Francis-Dr

@@ -1,11 +1,11 @@
 id: 888762816
-type: way
+type: node
 latitude: 35.01212
 longitude: -106.71674
 postcode: "87121"
 city: Albuquerque
-street: "Coors Boulevard Southwest"
-housenumber: 4321
+street: Coors Boulevard Southwest
+housenumber: "4321"
 phone: ""
 opening_hours: ""
 website: ""

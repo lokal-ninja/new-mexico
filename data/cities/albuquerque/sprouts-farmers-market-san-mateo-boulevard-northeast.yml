@@ -4,8 +4,8 @@ latitude: 35.14859
 longitude: -106.58377
 postcode: "87109"
 city: Albuquerque
-street: "San Mateo Boulevard Northeast"
-housenumber: 6300
-phone: "+1 505-821-7000"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/nm/albuquerque/albuquerque-san-mateo-blvd/"
+street: San Mateo Boulevard Northeast
+housenumber: "6300"
+phone: +1 505-821-7000
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/nm/albuquerque/albuquerque-san-mateo-blvd/

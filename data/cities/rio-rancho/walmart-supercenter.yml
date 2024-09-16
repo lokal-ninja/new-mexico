@@ -1,11 +1,11 @@
 id: 694185333
-type: way
+type: node
 latitude: 35.24378
 longitude: -106.70023
 postcode: "87124"
 city: Rio Rancho
-street: "Unser Boulevard Southeast"
-housenumber: 901
-phone: "+1 505-962-9227"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3732/rio-rancho-nm"
+street: Unser Boulevard Southeast
+housenumber: "901"
+phone: +1 505-962-9227
+opening_hours: 24/7
+website: https://www.walmart.com/store/3732/rio-rancho-nm

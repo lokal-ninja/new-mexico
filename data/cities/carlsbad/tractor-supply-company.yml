@@ -1,11 +1,11 @@
 id: 192884628
-type: way
+type: node
 latitude: 32.38644
 longitude: -104.22332
 postcode: "88220"
 city: Carlsbad
-street: "National Parks Highway"
-housenumber: 3127
-phone: "+1 575-628-0002"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: National Parks Highway
+housenumber: "3127"
+phone: +1 575-628-0002
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

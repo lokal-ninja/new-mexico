@@ -1,11 +1,11 @@
 id: 929426663
-type: way
+type: node
 latitude: 32.27629
 longitude: -106.76694
 postcode: "88005"
 city: Las Cruces
-street: "South Main Street"
-housenumber: 3209
+street: South Main Street
+housenumber: "3209"
 phone: "+14702194372"
 opening_hours: ""
 website: ""

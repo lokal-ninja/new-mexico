@@ -1,11 +1,11 @@
 id: 255993894
-type: way
+type: node
 latitude: 35.08642
 longitude: -106.52919
 postcode: "87112"
 city: Albuquerque
-street: "Lomas Boulevard Northeast"
-housenumber: 10700
-phone: "+1 505-296-0978"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petco.com/"
+street: Lomas Boulevard Northeast
+housenumber: "10700"
+phone: +1 505-296-0978
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petco.com/

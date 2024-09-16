@@ -1,11 +1,11 @@
 id: 260062869
-type: way
+type: node
 latitude: 35.66055
 longitude: -105.97521
 postcode: "87505"
 city: Santa Fe
-street: "Saint Michaels Drive"
-housenumber: 1601
+street: Saint Michaels Drive
+housenumber: "1601"
 phone: ""
 opening_hours: ""
-website: "https://www.toyotaofsantafe.com/"
+website: https://www.toyotaofsantafe.com/

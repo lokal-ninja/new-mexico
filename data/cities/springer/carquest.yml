@@ -1,11 +1,11 @@
 id: 780728044
-type: way
+type: node
 latitude: 36.36157
 longitude: -104.59706
 postcode: "87747"
 city: Springer
-street: "Colbert Avenue"
-housenumber: 303
+street: Colbert Avenue
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 977669043
-type: way
+type: node
 latitude: 36.19716
 longitude: -105.88698
 postcode: "87527"
 city: Dixon
-street: "NM-75"
-housenumber: 215
+street: NM-75
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

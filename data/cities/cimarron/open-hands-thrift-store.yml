@@ -1,11 +1,11 @@
 id: 466704686
-type: way
+type: node
 latitude: 36.5115
 longitude: -104.91494
 postcode: "87714"
 city: Cimarron
-street: "North Washington Avenue"
-housenumber: 144
+street: North Washington Avenue
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

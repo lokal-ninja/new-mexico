@@ -1,11 +1,11 @@
 id: 799255676
-type: way
+type: node
 latitude: 35.65742
 longitude: -105.99401
 postcode: "87507"
 city: Santa Fe
-street: "Rufina Street"
-housenumber: 2923
+street: Rufina Street
+housenumber: "2923"
 phone: ""
-opening_hours: "by appointment"
-website: "https://shihanfineknives.com/visit"
+opening_hours: '"by appointment"'
+website: https://shihanfineknives.com/visit

@@ -4,8 +4,8 @@ latitude: 35.10325
 longitude: -106.67108
 postcode: "87104"
 city: Albuquerque
-street: "Rio Grande Boulevard Northwest"
-housenumber: 901
-phone: "+1-505-242-6818"
+street: Rio Grande Boulevard Northwest
+housenumber: "901"
+phone: +1-505-242-6818
 opening_hours: ""
-website: "http://ampmsalon.net/"
+website: http://ampmsalon.net/

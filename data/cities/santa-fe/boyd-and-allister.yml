@@ -1,11 +1,11 @@
 id: 845128073
-type: way
+type: node
 latitude: 35.68082
 longitude: -105.95948
 postcode: "87501"
 city: Santa Fe
-street: "Hickox Street"
-housenumber: 1200
+street: Hickox Street
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

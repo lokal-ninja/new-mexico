@@ -1,11 +1,11 @@
 id: 318046544
-type: way
+type: node
 latitude: 35.06721
 longitude: -106.50371
 postcode: "87123"
 city: Albuquerque
-street: "Dorado Place Southeast"
-housenumber: 221
-phone: "+1 505 2370181"
+street: Dorado Place Southeast
+housenumber: "221"
+phone: +1 505 2370181
 opening_hours: ""
-website: "http://www.danlar.com/Collision.aspx"
+website: http://www.danlar.com/Collision.aspx

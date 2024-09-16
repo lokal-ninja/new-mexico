@@ -1,11 +1,11 @@
 id: 530920769
-type: way
+type: node
 latitude: 35.6062
 longitude: -105.21177
 postcode: "87701"
 city: Las Vegas
-street: "Grand Avenue"
-housenumber: 1339
+street: Grand Avenue
+housenumber: "1339"
 phone: ""
 opening_hours: ""
 website: ""

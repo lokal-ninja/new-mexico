@@ -1,11 +1,11 @@
 id: 1183706641
-type: way
+type: node
 latitude: 35.08363
 longitude: -106.64322
 postcode: "87102"
 city: Albuquerque
-street: "Central Avenue Northeast"
-housenumber: 401
-phone: "+1-505-242-6469"
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "https://nuveabq.com"
+street: Central Avenue Northeast
+housenumber: "401"
+phone: +1-505-242-6469
+opening_hours: Tu-Sa 10:00-18:00
+website: https://nuveabq.com

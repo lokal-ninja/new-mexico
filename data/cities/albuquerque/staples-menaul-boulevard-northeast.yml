@@ -1,11 +1,11 @@
 id: 184588556
-type: way
+type: node
 latitude: 35.11036
 longitude: -106.57703
 postcode: "87110"
 city: Albuquerque
-street: "Menaul Boulevard Northeast"
-housenumber: 6001
+street: Menaul Boulevard Northeast
+housenumber: "6001"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/nm/albuquerque/6001-menaul-blvd-ne"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/nm/albuquerque/6001-menaul-blvd-ne

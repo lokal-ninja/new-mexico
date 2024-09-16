@@ -1,11 +1,11 @@
 id: 1184833501
-type: way
+type: node
 latitude: 35.661
 longitude: -105.97703
-postcode: "87505-3270"
+postcode: 87505-3270
 city: Santa Fe
-street: "Cerrillos Road"
-housenumber: 2006
-phone: "+1 505-424-9343"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
+street: Cerrillos Road
+housenumber: "2006"
+phone: +1 505-424-9343
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
 website: ""

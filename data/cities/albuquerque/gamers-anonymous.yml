@@ -4,8 +4,8 @@ latitude: 35.09677
 longitude: -106.55036
 postcode: "87112"
 city: Albuquerque
-street: "Wyoming Boulevard Northeast"
-housenumber: 1504
-phone: "+1 505 3320717"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
-website: "https://garetro.com/"
+street: Wyoming Boulevard Northeast
+housenumber: "1504"
+phone: +1 505 3320717
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://garetro.com/

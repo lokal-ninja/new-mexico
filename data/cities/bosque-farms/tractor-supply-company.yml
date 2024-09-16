@@ -1,11 +1,11 @@
 id: 558405077
-type: way
+type: node
 latitude: 34.86166
 longitude: -106.68999
 postcode: "87068"
 city: Bosque Farms
-street: "Bosque Farms Boulevard"
-housenumber: 890
-phone: "+1 505-869-9430"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Bosque Farms Boulevard
+housenumber: "890"
+phone: +1 505-869-9430
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

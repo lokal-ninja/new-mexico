@@ -1,11 +1,11 @@
 id: 483793033
-type: way
+type: node
 latitude: 35.63917
 longitude: -105.98309
 postcode: "87507"
 city: Santa Fe
-street: "Rodeo Road"
-housenumber: 2801
-phone: "+1-505-473-4396"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-18:00"
+street: Rodeo Road
+housenumber: "2801"
+phone: +1-505-473-4396
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-18:00
 website: ""

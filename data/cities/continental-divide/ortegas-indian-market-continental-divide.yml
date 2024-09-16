@@ -1,11 +1,11 @@
 id: 714792545
-type: way
+type: node
 latitude: 35.42319
 longitude: -108.30903
 postcode: "87312"
 city: Continental Divide
-street: "New Mexico 122"
-housenumber: 19
+street: New Mexico 122
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 187601848
-type: way
+type: node
 latitude: 32.34458
 longitude: -108.71063
 postcode: "88045"
 city: Lordsburg
-street: "Main Street"
-housenumber: 810
+street: Main Street
+housenumber: "810"
 phone: ""
 opening_hours: ""
 website: ""

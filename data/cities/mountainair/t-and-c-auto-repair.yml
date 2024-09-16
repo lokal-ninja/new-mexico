@@ -1,11 +1,11 @@
 id: 624156929
-type: way
+type: node
 latitude: 34.52076
 longitude: -106.24364
 postcode: "87036"
 city: Mountainair
-street: "West Broadway"
-housenumber: 201
+street: West Broadway
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

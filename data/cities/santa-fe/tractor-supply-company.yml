@@ -1,11 +1,11 @@
 id: 638973079
-type: way
+type: node
 latitude: 35.63372
 longitude: -106.06713
 postcode: "87507"
 city: Santa Fe
-street: "Oliver Road"
-housenumber: 3901
-phone: "+1 505-471-9160"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Oliver Road
+housenumber: "3901"
+phone: +1 505-471-9160
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

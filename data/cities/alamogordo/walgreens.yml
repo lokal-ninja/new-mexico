@@ -1,11 +1,11 @@
 id: 210708769
-type: way
+type: node
 latitude: 32.89944
 longitude: -105.96131
 postcode: "88310"
 city: Alamogordo
-street: "North White Sands Boulevard"
-housenumber: 955
+street: North White Sands Boulevard
+housenumber: "955"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-955+n+white+sands+blvd-alamogordo-nm-88310/id=9991"
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-955+n+white+sands+blvd-alamogordo-nm-88310/id=9991

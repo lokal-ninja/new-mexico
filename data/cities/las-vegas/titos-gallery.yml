@@ -4,8 +4,8 @@ latitude: 35.593
 longitude: -105.22553
 postcode: ""
 city: Las Vegas
-street: "Bridge Street"
-housenumber: 157
-phone: "+1 505-425-3745"
+street: Bridge Street
+housenumber: "157"
+phone: +1 505-425-3745
 opening_hours: ""
-website: "http://titosgallery.com/"
+website: http://titosgallery.com/

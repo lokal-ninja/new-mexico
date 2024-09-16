@@ -1,11 +1,11 @@
 id: 996681525
-type: way
+type: node
 latitude: 35.06545
 longitude: -106.20007
 postcode: "87015"
 city: Edgewood
-street: "Marietta Court"
-housenumber: 2
+street: Marietta Court
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

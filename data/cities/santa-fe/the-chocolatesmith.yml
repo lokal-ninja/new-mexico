@@ -1,11 +1,11 @@
 id: 461791881
-type: way
+type: node
 latitude: 35.67862
 longitude: -105.95164
 postcode: "87505"
 city: Santa Fe
-street: "Cerrillos Road"
-housenumber: 851
-phone: "+1-505-473-2111"
-opening_hours: "Mo-Fr 10:00-17:30; Sa 10:00-17:00"
-website: "https://www.chocolatesmith.com/"
+street: Cerrillos Road
+housenumber: "851"
+phone: +1-505-473-2111
+opening_hours: Mo-Fr 10:00-17:30; Sa 10:00-17:00
+website: https://www.chocolatesmith.com/

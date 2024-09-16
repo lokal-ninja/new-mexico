@@ -1,11 +1,11 @@
 id: 689553115
-type: way
+type: node
 latitude: 35.60388
 longitude: -106.00438
 postcode: "87508"
 city: Santa Fe
-street: "Velocity Way"
-housenumber: 33
+street: Velocity Way
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

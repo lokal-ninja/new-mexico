@@ -1,11 +1,11 @@
 id: 175162466
-type: way
+type: node
 latitude: 35.13036
 longitude: -106.55039
 postcode: "87111"
 city: Albuquerque
-street: "Montgomery Boulevard Northeast"
-housenumber: 8400
+street: Montgomery Boulevard Northeast
+housenumber: "8400"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-8400+montgomery+blvd+ne-albuquerque-nm-87111/id=6121"
+website: https://www.walgreens.com/locator/walgreens-8400+montgomery+blvd+ne-albuquerque-nm-87111/id=6121

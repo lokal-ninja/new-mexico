@@ -1,11 +1,11 @@
 id: 535000247
-type: way
+type: node
 latitude: 36.71822
 longitude: -108.14757
 postcode: "87401"
 city: Farmington
-street: "Bloomfield Highway"
-housenumber: 5426
-phone: "+1-505-325-7124"
+street: Bloomfield Highway
+housenumber: "5426"
+phone: +1-505-325-7124
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 32.89952
 longitude: -105.95515
 postcode: "88310"
 city: Alamogordo
-street: "E 10th St"
-housenumber: 604
-phone: "575-489-8539"
-opening_hours: "Sun – Thu : 8:30 AM–10 PM || Fri – Sat : 8:30 AM–11 PM || Mon – 8:30 AM–10 PM (Hours might differ)"
-website: "https://www.medicusnm.com/"
+street: E 10th St
+housenumber: "604"
+phone: 575-489-8539
+opening_hours: 'Sun – Thu : 8:30 AM–10 PM || Fri – Sat : 8:30 AM–11 PM || Mon – 8:30 AM–10 PM
+    (Hours might differ)'
+website: https://www.medicusnm.com/

@@ -1,11 +1,11 @@
 id: 479634032
-type: way
+type: node
 latitude: 35.65821
 longitude: -105.97308
 postcode: "87505"
 city: Santa Fe
-street: "Llano Street"
-housenumber: 1710
+street: Llano Street
+housenumber: "1710"
 phone: ""
 opening_hours: ""
 website: ""

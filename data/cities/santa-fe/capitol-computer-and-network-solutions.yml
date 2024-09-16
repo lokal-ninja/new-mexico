@@ -4,8 +4,8 @@ latitude: 35.66391
 longitude: -105.96404
 postcode: "87505"
 city: Santa Fe
-street: "2nd Street"
-housenumber: 1807
-phone: "+1-505-216-1108"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.ccandns.com/"
+street: 2nd Street
+housenumber: "1807"
+phone: +1-505-216-1108
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.ccandns.com/

@@ -1,11 +1,11 @@
 id: 435275323
-type: way
+type: node
 latitude: 35.1161
 longitude: -106.52407
 postcode: "87112"
 city: Albuquerque
-street: "Candelaria Road Northeast"
-housenumber: 10400
-phone: "+1-505-296-4117"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 09:00-15:00; Su off"
-website: "http://bakersautotruck.com"
+street: Candelaria Road Northeast
+housenumber: "10400"
+phone: +1-505-296-4117
+opening_hours: Mo-Fr 07:30-18:00, Sa 09:00-15:00; Su off
+website: http://bakersautotruck.com

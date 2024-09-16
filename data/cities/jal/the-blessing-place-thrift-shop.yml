@@ -1,11 +1,11 @@
 id: 1189823777
-type: way
+type: node
 latitude: 32.1126
 longitude: -103.19443
 postcode: ""
 city: Jal
-street: "South Main Street"
-housenumber: 231
+street: South Main Street
+housenumber: "231"
 phone: ""
 opening_hours: ""
 website: ""

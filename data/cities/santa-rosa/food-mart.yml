@@ -1,11 +1,11 @@
 id: 784622306
-type: way
+type: node
 latitude: 34.93879
 longitude: -104.6913
 postcode: "88435"
 city: Santa Rosa
-street: "Route 66"
-housenumber: 994
+street: Route 66
+housenumber: "994"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 897623086
-type: way
+type: node
 latitude: 35.5547
 longitude: -106.77845
 postcode: "87053"
 city: San Ysidro
-street: "Bobby Garcia Lane"
-housenumber: 24
+street: Bobby Garcia Lane
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

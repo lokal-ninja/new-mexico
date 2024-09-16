@@ -1,11 +1,11 @@
 id: 1094025494
-type: way
+type: node
 latitude: 35.08619
 longitude: -106.54666
 postcode: "87112"
 city: Albuquerque
-street: "Lomas Boulevard Northeast"
-housenumber: 8800
-phone: "+1 505 404 0136"
-opening_hours: "Mo-Sa 08:00-19:00, Su 11:00-18:00"
-website: "https://www.southwesthyundai.com/"
+street: Lomas Boulevard Northeast
+housenumber: "8800"
+phone: +1 505 404 0136
+opening_hours: Mo-Sa 08:00-19:00, Su 11:00-18:00
+website: https://www.southwesthyundai.com/

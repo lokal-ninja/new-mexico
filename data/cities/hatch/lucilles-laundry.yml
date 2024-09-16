@@ -1,11 +1,11 @@
 id: 1084364303
-type: way
+type: node
 latitude: 32.66595
 longitude: -107.15763
 postcode: "87937"
 city: Hatch
-street: "West Hall Street"
-housenumber: 418
+street: West Hall Street
+housenumber: "418"
 phone: "+15756440419"
 opening_hours: ""
 website: ""

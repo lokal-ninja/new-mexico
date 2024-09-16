@@ -1,11 +1,11 @@
 id: 657445841
-type: way
+type: node
 latitude: 34.81428
 longitude: -106.74904
 postcode: "87031"
 city: Los Lunas
-street: "Main St SW"
-housenumber: 1221
+street: Main St SW
+housenumber: "1221"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://locations.aarons.com/us/nm/los-lunas/1221-main-st-sw"
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://locations.aarons.com/us/nm/los-lunas/1221-main-st-sw

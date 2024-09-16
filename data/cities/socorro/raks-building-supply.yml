@@ -1,11 +1,11 @@
 id: 554182997
-type: way
+type: node
 latitude: 34.06171
 longitude: -106.88711
 postcode: "87801"
 city: Socorro
-street: "Otero Avenue East"
-housenumber: 501
+street: Otero Avenue East
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 787210700
-type: way
+type: node
 latitude: 34.81461
 longitude: -106.75939
 postcode: "87031"
 city: Los Lunas
-street: "Emilio Lopez Loop"
-housenumber: 331
-phone: "+1 505-908-3131"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/331-emilio-lopez-loop-nw-los-lunas-87031?number=3028"
+street: Emilio Lopez Loop
+housenumber: "331"
+phone: +1 505-908-3131
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/331-emilio-lopez-loop-nw-los-lunas-87031?number=3028

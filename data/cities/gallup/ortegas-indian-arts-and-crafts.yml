@@ -1,11 +1,11 @@
 id: 714792543
-type: way
+type: node
 latitude: 35.51628
 longitude: -108.77904
 postcode: "87301"
 city: Gallup
-street: "West Historic Highway 66"
-housenumber: 2107
+street: West Historic Highway 66
+housenumber: "2107"
 phone: ""
-opening_hours: "Mo-Sa 08:30-18:00; Su 08:30-17:30"
+opening_hours: Mo-Sa 08:30-18:00; Su 08:30-17:30
 website: ""

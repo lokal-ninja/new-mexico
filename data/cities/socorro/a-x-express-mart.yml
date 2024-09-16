@@ -1,11 +1,11 @@
 id: 438929027
-type: way
+type: node
 latitude: 34.04922
 longitude: -106.89252
 postcode: ""
 city: Socorro
-street: "California Street"
-housenumber: 721
+street: California Street
+housenumber: "721"
 phone: ""
 opening_hours: ""
 website: ""

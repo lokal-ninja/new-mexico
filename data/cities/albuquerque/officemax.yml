@@ -1,11 +1,11 @@
 id: 256016014
-type: way
+type: node
 latitude: 35.08468
 longitude: -106.52966
 postcode: "87123"
 city: Albuquerque
-street: "Hotel Circle Northeast"
-housenumber: 40
-phone: "+1 505 2921400"
+street: Hotel Circle Northeast
+housenumber: "40"
+phone: +1 505 2921400
 opening_hours: ""
 website: ""

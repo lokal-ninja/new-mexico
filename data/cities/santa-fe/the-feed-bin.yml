@@ -1,11 +1,11 @@
 id: 474075745
-type: way
+type: node
 latitude: 35.68708
 longitude: -105.96203
 postcode: "87501"
 city: Santa Fe
-street: "West Alameda Street"
-housenumber: 1202
-phone: "+1-505-982-0511"
+street: West Alameda Street
+housenumber: "1202"
+phone: +1-505-982-0511
 opening_hours: ""
 website: ""

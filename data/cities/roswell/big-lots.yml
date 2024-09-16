@@ -4,8 +4,8 @@ latitude: 33.4244
 longitude: -104.52181
 postcode: "88201"
 city: Roswell
-street: "North Main Street"
-housenumber: 2513
-phone: "+1 575-627-1004"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/nm/roswell/2513-n-main-st"
+street: North Main Street
+housenumber: "2513"
+phone: +1 575-627-1004
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/nm/roswell/2513-n-main-st

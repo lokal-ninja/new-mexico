@@ -1,11 +1,11 @@
 id: 930009045
-type: way
+type: node
 latitude: 32.2786
 longitude: -106.76946
 postcode: "88005"
 city: Las Cruces
-street: "Harrelson Street"
-housenumber: 3001
-phone: "(575)-649-1805"
+street: Harrelson Street
+housenumber: "3001"
+phone: (575)-649-1805
 opening_hours: ""
 website: ""

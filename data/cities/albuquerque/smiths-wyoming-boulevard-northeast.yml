@@ -1,11 +1,11 @@
 id: 835520136
-type: way
+type: node
 latitude: 35.17619
 longitude: -106.55821
 postcode: "87113"
 city: Albuquerque
-street: "Wyoming Boulevard Northeast"
-housenumber: 8100
-phone: "+1 505-857-9728"
-opening_hours: "Su-Sa 06:00-23:00"
-website: "https://www.smithsfoodanddrug.com/stores/details/706/00459"
+street: Wyoming Boulevard Northeast
+housenumber: "8100"
+phone: +1 505-857-9728
+opening_hours: Su-Sa 06:00-23:00
+website: https://www.smithsfoodanddrug.com/stores/details/706/00459

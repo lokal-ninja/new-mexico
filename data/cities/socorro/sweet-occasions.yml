@@ -1,11 +1,11 @@
 id: 571038470
-type: way
+type: node
 latitude: 34.05708
 longitude: -106.8943
 postcode: "87801"
 city: Socorro
-street: "Plaza Street"
-housenumber: 123
-phone: "+1-505-553-4643"
+street: Plaza Street
+housenumber: "123"
+phone: +1-505-553-4643
 opening_hours: ""
 website: ""

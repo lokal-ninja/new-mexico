@@ -1,11 +1,11 @@
 id: 613186970
-type: way
+type: node
 latitude: 35.17561
 longitude: -106.54045
 postcode: "87122"
 city: Albuquerque
-street: "Ventura Street Northeast"
-housenumber: 8100
+street: Ventura Street Northeast
+housenumber: "8100"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://local.albertsonsmarket.com/nm/albuquerque/8100-ventura-st-ne.html"
+opening_hours: Mo-Su 06:00-23:00
+website: https://local.albertsonsmarket.com/nm/albuquerque/8100-ventura-st-ne.html

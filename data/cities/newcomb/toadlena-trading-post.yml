@@ -1,11 +1,11 @@
 id: 1061043645
-type: way
+type: node
 latitude: 36.23356
 longitude: -108.89259
 postcode: "87455"
 city: Newcomb
-street: "Highway 491"
-housenumber: 
+street: Highway 491
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

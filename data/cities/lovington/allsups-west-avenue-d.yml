@@ -1,11 +1,11 @@
 id: 1260449498
-type: way
+type: node
 latitude: 32.94439
 longitude: -103.35921
 postcode: ""
 city: Lovington
-street: "West Avenue D"
-housenumber: 810
+street: West Avenue D
+housenumber: "810"
 phone: ""
 opening_hours: ""
 website: ""

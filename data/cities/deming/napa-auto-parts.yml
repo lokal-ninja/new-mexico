@@ -1,11 +1,11 @@
 id: 245731055
-type: way
+type: node
 latitude: 32.26992
 longitude: -107.75169
 postcode: "88030"
 city: Deming
-street: "East Pine Street"
-housenumber: 623
-phone: "+1 575 546 2696"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-15:00"
+street: East Pine Street
+housenumber: "623"
+phone: +1 575 546 2696
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-15:00
 website: ""

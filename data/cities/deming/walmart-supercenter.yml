@@ -1,11 +1,11 @@
 id: 188836270
-type: way
+type: node
 latitude: 32.27109
 longitude: -107.74776
 postcode: "88030"
 city: Deming
-street: "East Pine Street"
-housenumber: 1021
-phone: "+1 575-546-6045"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5166/deming-nm/whats-new"
+street: East Pine Street
+housenumber: "1021"
+phone: +1 575-546-6045
+opening_hours: 24/7
+website: https://www.walmart.com/store/5166/deming-nm/whats-new

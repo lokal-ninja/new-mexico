@@ -1,11 +1,11 @@
 id: 511358605
-type: way
+type: node
 latitude: 33.2574
 longitude: -103.31813
 postcode: "88267"
 city: Tatum
-street: "West Broadway Street"
-housenumber: 101
+street: West Broadway Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

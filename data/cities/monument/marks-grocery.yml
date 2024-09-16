@@ -1,11 +1,11 @@
 id: 1176840064
-type: way
+type: node
 latitude: 32.62521
 longitude: -103.26545
 postcode: "88265"
 city: Monument
-street: "South NM Highway 8"
-housenumber: 6801
-phone: "+1-575-397-7291"
+street: South NM Highway 8
+housenumber: "6801"
+phone: +1-575-397-7291
 opening_hours: ""
 website: ""

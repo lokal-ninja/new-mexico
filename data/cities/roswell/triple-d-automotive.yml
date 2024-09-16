@@ -1,11 +1,11 @@
 id: 715987035
-type: way
+type: node
 latitude: 33.37865
 longitude: -104.5211
 postcode: "88203"
 city: Roswell
-street: "East Forest Street"
-housenumber: 116
+street: East Forest Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

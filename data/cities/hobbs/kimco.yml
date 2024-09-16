@@ -1,11 +1,11 @@
 id: 747505892
-type: way
+type: node
 latitude: 32.72598
 longitude: -103.12166
 postcode: "88240"
 city: Hobbs
-street: "East Bender Boulevard"
-housenumber: 1214
+street: East Bender Boulevard
+housenumber: "1214"
 phone: ""
 opening_hours: ""
 website: ""

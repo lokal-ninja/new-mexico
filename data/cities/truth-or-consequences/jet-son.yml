@@ -1,11 +1,11 @@
 id: 539686452
-type: way
+type: node
 latitude: 33.13785
 longitude: -107.25101
 postcode: "87901"
 city: Truth or Consequences
-street: "North Date Street"
-housenumber: 712
-phone: "575-894-4041"
+street: North Date Street
+housenumber: "712"
+phone: 575-894-4041
 opening_hours: ""
 website: ""

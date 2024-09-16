@@ -1,11 +1,11 @@
 id: 1040912350
-type: way
+type: node
 latitude: 35.14654
 longitude: -106.68697
 postcode: "87120"
 city: Albuquerque
-street: "Coors Boulevard Northwest"
-housenumber: 5600
-phone: "+1 505-355-3850"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.sprouts.com/store/nm/albuquerque/albuquerque-coors-blvd/"
+street: Coors Boulevard Northwest
+housenumber: "5600"
+phone: +1 505-355-3850
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.sprouts.com/store/nm/albuquerque/albuquerque-coors-blvd/

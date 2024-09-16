@@ -1,11 +1,11 @@
 id: 833941246
-type: way
+type: node
 latitude: 35.19687
 longitude: -106.70641
 postcode: "87114"
 city: Albuquerque
-street: "Paradise Boulevard Northwest"
-housenumber: 5647
+street: Paradise Boulevard Northwest
+housenumber: "5647"
 phone: ""
-opening_hours: "Mo-Su 08:00-17:00, Sa 08:00-17:30"
+opening_hours: Mo-Su 08:00-17:00, Sa 08:00-17:30
 website: ""

@@ -1,11 +1,11 @@
 id: 720027339
-type: way
+type: node
 latitude: 35.00463
 longitude: -106.05148
 postcode: ""
 city: Moriarty
-street: "Central Avenue"
-housenumber: 612
+street: Central Avenue
+housenumber: "612"
 phone: ""
 opening_hours: ""
 website: ""

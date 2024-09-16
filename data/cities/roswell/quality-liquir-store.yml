@@ -1,11 +1,11 @@
 id: 715987034
-type: way
+type: node
 latitude: 33.37779
 longitude: -104.52309
 postcode: "88203"
 city: Roswell
-street: "South Main Street"
-housenumber: 1400
+street: South Main Street
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

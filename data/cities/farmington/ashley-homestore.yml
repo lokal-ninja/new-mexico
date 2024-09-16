@@ -1,11 +1,11 @@
 id: 442001787
-type: way
+type: node
 latitude: 36.7701
 longitude: -108.14456
 postcode: "87402"
 city: Farmington
-street: "East Main Street"
-housenumber: 5200
-phone: "+1 505-516-1030"
+street: East Main Street
+housenumber: "5200"
+phone: +1 505-516-1030
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/new-mexico/farmington/7710000296/"
+website: https://stores.ashleyfurniture.com/store/us/new-mexico/farmington/7710000296/

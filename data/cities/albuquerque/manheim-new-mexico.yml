@@ -1,11 +1,11 @@
 id: 551078292
-type: way
+type: node
 latitude: 35.03962
 longitude: -106.64811
 postcode: "87105"
 city: Albuquerque
-street: "Broadway Boulevard Southeast"
-housenumber: 3411
+street: Broadway Boulevard Southeast
+housenumber: "3411"
 phone: ""
 opening_hours: ""
 website: ""

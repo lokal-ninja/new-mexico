@@ -1,11 +1,11 @@
 id: 250901621
-type: way
+type: node
 latitude: 35.07079
 longitude: -106.52372
 postcode: "87123"
 city: Albuquerque
-street: "Central Avenue"
-housenumber: 11100
-phone: "+1 505 2925568"
+street: Central Avenue
+housenumber: "11100"
+phone: +1 505 2925568
 opening_hours: ""
-website: "http://holidaytraveltrailersinc.com/"
+website: http://holidaytraveltrailersinc.com/

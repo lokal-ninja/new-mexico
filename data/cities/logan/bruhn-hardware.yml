@@ -1,11 +1,11 @@
 id: 452897557
-type: way
+type: node
 latitude: 35.36543
 longitude: -103.41298
 postcode: "88426"
 city: Logan
-street: "Martinez Street"
-housenumber: 914
+street: Martinez Street
+housenumber: "914"
 phone: ""
 opening_hours: ""
 website: ""

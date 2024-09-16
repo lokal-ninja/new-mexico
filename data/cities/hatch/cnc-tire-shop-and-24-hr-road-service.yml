@@ -1,11 +1,11 @@
 id: 1084141713
-type: way
+type: node
 latitude: 32.66551
 longitude: -107.15079
 postcode: "87937"
 city: Hatch
-street: "Hall Street"
-housenumber: 320
+street: Hall Street
+housenumber: "320"
 phone: "+15758054960"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 369201887
-type: way
+type: node
 latitude: 33.39473
 longitude: -104.51504
 postcode: "88201"
 city: Roswell
-street: "East 2nd Street"
-housenumber: 511
-phone: "+1-575-622-1344"
+street: East 2nd Street
+housenumber: "511"
+phone: +1-575-622-1344
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 850016099
-type: way
+type: node
 latitude: 34.6982
 longitude: -106.77243
 postcode: "87002"
 city: Belen
-street: "I-25 Bypass"
-housenumber: 49
-phone: "+1 505-864-6449"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: I-25 Bypass
+housenumber: "49"
+phone: +1 505-864-6449
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

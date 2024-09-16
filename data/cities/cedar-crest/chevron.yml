@@ -1,11 +1,11 @@
 id: 478108117
-type: way
+type: node
 latitude: 35.10342
 longitude: -106.37757
 postcode: ""
 city: Cedar Crest
-street: "NM 14"
-housenumber: 12011
+street: NM 14
+housenumber: "12011"
 phone: ""
 opening_hours: ""
 website: ""

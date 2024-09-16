@@ -1,11 +1,11 @@
 id: 219989247
-type: way
+type: node
 latitude: 32.87821
 longitude: -105.95978
 postcode: "88310"
 city: Alamogordo
-street: "South While Sands Boulevard"
-housenumber: 1117
+street: South While Sands Boulevard
+housenumber: "1117"
 phone: ""
 opening_hours: ""
 website: ""

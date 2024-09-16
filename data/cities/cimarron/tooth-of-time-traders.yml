@@ -1,11 +1,11 @@
 id: 897778091
-type: way
+type: node
 latitude: 36.45466
 longitude: -104.95764
 postcode: "87714"
 city: Cimarron
-street: "Caballo Road"
-housenumber: 21
+street: Caballo Road
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

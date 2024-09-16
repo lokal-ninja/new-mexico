@@ -1,11 +1,11 @@
 id: 191454277
-type: way
+type: node
 latitude: 36.77259
 longitude: -108.14302
 postcode: "87402"
 city: Farmington
-street: "Pinon Hills Boulevard"
-housenumber: 5451
-phone: "+1 505-599-0200"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/nm-farmington/2501"
+street: Pinon Hills Boulevard
+housenumber: "5451"
+phone: +1 505-599-0200
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/nm-farmington/2501

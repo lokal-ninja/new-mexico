@@ -1,11 +1,11 @@
 id: 694184226
-type: way
+type: node
 latitude: 35.24202
 longitude: -106.69733
 postcode: "87124"
 city: Rio Rancho
-street: "Southern Boulevard Southeast"
-housenumber: 1941
-phone: "+1 505 891 8186"
-opening_hours: "Mo-Sa 07:00-24:00; Su 08:00-24:00"
-website: "https://www.walgreens.com/locator/walgreens-1941+southern+blvd+se-rio+rancho-nm-87124/id=4187"
+street: Southern Boulevard Southeast
+housenumber: "1941"
+phone: +1 505 891 8186
+opening_hours: Mo-Sa 07:00-24:00; Su 08:00-24:00
+website: https://www.walgreens.com/locator/walgreens-1941+southern+blvd+se-rio+rancho-nm-87124/id=4187

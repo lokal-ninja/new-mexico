@@ -1,11 +1,11 @@
 id: 134495467
-type: way
+type: node
 latitude: 33.07965
 longitude: -106.01986
 postcode: "88352"
 city: Tularosa
-street: "Dollar Parkway"
-housenumber: 100
-phone: "+1 575-812-8024"
+street: Dollar Parkway
+housenumber: "100"
+phone: +1 575-812-8024
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nm/tularosa/12069"
+website: https://www.dollargeneral.com/store-directory/nm/tularosa/12069

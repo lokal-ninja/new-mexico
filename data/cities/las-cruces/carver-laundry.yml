@@ -1,11 +1,11 @@
 id: 992782803
-type: way
+type: node
 latitude: 32.26129
 longitude: -106.75985
 postcode: "88005"
 city: Las Cruces
-street: "Carver Road"
-housenumber: 112
+street: Carver Road
+housenumber: "112"
 phone: "+15755238443"
-opening_hours: "Mo-Su 5:30-23:00"
+opening_hours: Mo-Su 5:30-23:00
 website: ""

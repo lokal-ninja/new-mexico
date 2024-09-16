@@ -1,11 +1,11 @@
 id: 780728047
-type: way
+type: node
 latitude: 36.3615
 longitude: -104.59637
 postcode: "87747"
 city: Springer
-street: "Maxwell Avenue"
-housenumber: 403
+street: Maxwell Avenue
+housenumber: "403"
 phone: ""
 opening_hours: ""
 website: ""

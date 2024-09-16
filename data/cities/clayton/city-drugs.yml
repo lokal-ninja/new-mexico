@@ -4,8 +4,8 @@ latitude: 36.45156
 longitude: -103.18509
 postcode: ""
 city: Clayton
-street: "Main Street"
-housenumber: 7
-phone: "+1 575-374-9121"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.facebook.com/CityDrugHealthMartPharmacy"
+street: Main Street
+housenumber: "7"
+phone: +1 575-374-9121
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.facebook.com/CityDrugHealthMartPharmacy

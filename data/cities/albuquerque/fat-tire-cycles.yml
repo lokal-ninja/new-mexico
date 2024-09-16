@@ -1,11 +1,11 @@
 id: 179893501
-type: way
+type: node
 latitude: 35.13687
 longitude: -106.6261
 postcode: "87107"
 city: Albuquerque
-street: "Montaño Road Northeast"
-housenumber: 421
-phone: "+1-505-345-9005"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
-website: "https://fattirecycles.com"
+street: Montaño Road Northeast
+housenumber: "421"
+phone: +1-505-345-9005
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
+website: https://fattirecycles.com

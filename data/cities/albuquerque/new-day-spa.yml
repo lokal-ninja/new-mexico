@@ -1,11 +1,11 @@
 id: 972105763
-type: way
+type: node
 latitude: 35.10957
 longitude: -106.61956
 postcode: "87107"
 city: Albuquerque
-street: "Menaul Boulevard Northeast"
-housenumber: 2117
-phone: "+1-505-377-2060"
-opening_hours: "Mo-Su 09:00-23:00"
+street: Menaul Boulevard Northeast
+housenumber: "2117"
+phone: +1-505-377-2060
+opening_hours: Mo-Su 09:00-23:00
 website: ""

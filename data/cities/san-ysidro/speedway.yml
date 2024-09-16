@@ -1,11 +1,11 @@
 id: 897174350
-type: way
+type: node
 latitude: 35.55076
 longitude: -106.77797
 postcode: "87053"
 city: San Ysidro
-street: "US 550"
-housenumber: 23238
-phone: "+1 575 834-7655"
+street: US 550
+housenumber: "23238"
+phone: +1 575 834-7655
 opening_hours: ""
-website: "https://www.speedway.com/locations/NM/San-Ysidro/23238-A-HWY-550"
+website: https://www.speedway.com/locations/NM/San-Ysidro/23238-A-HWY-550

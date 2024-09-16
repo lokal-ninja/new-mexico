@@ -1,11 +1,11 @@
 id: 1178747169
-type: way
+type: node
 latitude: 32.69773
 longitude: -103.18699
 postcode: "88240"
 city: Hobbs
-street: "West Carlsbad Highway"
-housenumber: 3800
-phone: "+1-575-602-3231"
+street: West Carlsbad Highway
+housenumber: "3800"
+phone: +1-575-602-3231
 opening_hours: ""
 website: ""

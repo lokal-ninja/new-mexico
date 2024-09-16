@@ -1,11 +1,11 @@
 id: 894444118
-type: way
+type: node
 latitude: 35.06455
 longitude: -106.78451
 postcode: "87121"
 city: Albuquerque
-street: "Central Avenue Northwest"
-housenumber: 12605
+street: Central Avenue Northwest
+housenumber: "12605"
 phone: ""
 opening_hours: ""
 website: ""

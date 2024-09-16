@@ -1,11 +1,11 @@
 id: 159047303
-type: way
+type: node
 latitude: 35.08266
 longitude: -106.71152
 postcode: "87121"
 city: Albuquerque
-street: "Coors Boulevard Northwest"
-housenumber: 201
+street: Coors Boulevard Northwest
+housenumber: "201"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NM/Albuquerque/201-Coors-Blvd-NW"
+website: https://www.speedway.com/locations/NM/Albuquerque/201-Coors-Blvd-NW

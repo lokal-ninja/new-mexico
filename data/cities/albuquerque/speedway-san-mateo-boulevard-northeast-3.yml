@@ -1,11 +1,11 @@
 id: 975388862
-type: way
+type: node
 latitude: 35.15102
 longitude: -106.58718
 postcode: "87109"
 city: Albuquerque
-street: "San Mateo Boulevard Northeast"
-housenumber: 6821
+street: San Mateo Boulevard Northeast
+housenumber: "6821"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/NM/Albuquerque/6821-San-Mateo-Blvd-NE"
+website: https://www.speedway.com/locations/NM/Albuquerque/6821-San-Mateo-Blvd-NE

@@ -1,11 +1,11 @@
 id: 516007704
-type: way
+type: node
 latitude: 35.1751
 longitude: -106.56271
 postcode: "87113"
 city: Albuquerque
-street: "Paseo del Norte Boulevard Northeast"
-housenumber: 7401
-phone: "+1-505-274-7343"
-opening_hours: "Mo-Sa 07:00-19:00, Su 09:00-17:00"
-website: "https://local.firestonecompleteautocare.com/new-mexico/albuquerque/7401-paseo-del-norte-ne"
+street: Paseo del Norte Boulevard Northeast
+housenumber: "7401"
+phone: +1-505-274-7343
+opening_hours: Mo-Sa 07:00-19:00, Su 09:00-17:00
+website: https://local.firestonecompleteautocare.com/new-mexico/albuquerque/7401-paseo-del-norte-ne

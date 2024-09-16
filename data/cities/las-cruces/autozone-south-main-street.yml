@@ -1,11 +1,11 @@
 id: 148269926
-type: way
+type: node
 latitude: 32.2676
 longitude: -106.7606
 postcode: "88047"
 city: Las Cruces
-street: "South Main Street"
-housenumber: 1975
+street: South Main Street
+housenumber: "1975"
 phone: "+15755236869"
 opening_hours: ""
-website: "https://www.autozone.com/locations/nm/las-cruces/3975-s-main-st.html"
+website: https://www.autozone.com/locations/nm/las-cruces/3975-s-main-st.html

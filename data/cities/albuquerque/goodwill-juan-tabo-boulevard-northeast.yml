@@ -1,11 +1,11 @@
 id: 508338382
-type: way
+type: node
 latitude: 35.09114
 longitude: -106.51471
 postcode: "87112"
 city: Albuquerque
-street: "Juan Tabo Boulevard Northeast"
-housenumber: 1108
+street: Juan Tabo Boulevard Northeast
+housenumber: "1108"
 phone: ""
 opening_hours: ""
 website: ""

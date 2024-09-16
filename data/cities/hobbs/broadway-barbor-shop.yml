@@ -1,11 +1,11 @@
 id: 611934506
-type: way
+type: node
 latitude: 32.70093
 longitude: -103.13534
 postcode: "88240"
 city: Hobbs
-street: "East Broadway Street"
-housenumber: 120
+street: East Broadway Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

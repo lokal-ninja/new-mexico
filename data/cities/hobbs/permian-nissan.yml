@@ -1,11 +1,11 @@
 id: 612531776
-type: way
+type: node
 latitude: 32.73922
 longitude: -103.1444
 postcode: "88240"
 city: Hobbs
-street: "North Grimes Street"
-housenumber: 3600
+street: North Grimes Street
+housenumber: "3600"
 phone: ""
 opening_hours: ""
 website: ""

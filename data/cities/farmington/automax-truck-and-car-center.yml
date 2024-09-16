@@ -1,11 +1,11 @@
 id: 591115222
-type: way
+type: node
 latitude: 36.77063
 longitude: -108.14257
 postcode: "87402"
 city: Farmington
-street: "East Main Street"
-housenumber: 5220
-phone: "(888) 904-6879"
+street: East Main Street
+housenumber: "5220"
+phone: (888) 904-6879
 opening_hours: ""
-website: "https://www.4automax.com/"
+website: https://www.4automax.com/

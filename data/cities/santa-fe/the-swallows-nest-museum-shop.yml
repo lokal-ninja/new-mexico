@@ -1,11 +1,11 @@
 id: 477543402
-type: way
+type: node
 latitude: 35.57402
 longitude: -106.11138
 postcode: "87507"
 city: Santa Fe
-street: "Los Pinos Road"
-housenumber: 334
+street: Los Pinos Road
+housenumber: "334"
 phone: ""
 opening_hours: ""
 website: ""

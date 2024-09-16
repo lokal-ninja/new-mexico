@@ -4,8 +4,8 @@ latitude: 36.7295
 longitude: -108.21694
 postcode: "87401"
 city: Farmington
-street: "West Main Street"
-housenumber: 730
-phone: "+1 505-325-8732"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://local.safeway.com/safeway/nm/farmington/730-w-main-st.html"
+street: West Main Street
+housenumber: "730"
+phone: +1 505-325-8732
+opening_hours: Mo-Su 07:00-22:00
+website: https://local.safeway.com/safeway/nm/farmington/730-w-main-st.html

@@ -1,11 +1,11 @@
 id: 219983027
-type: way
+type: node
 latitude: 32.90673
 longitude: -105.96022
 postcode: "88310"
 city: Alamogordo
-street: "North White Sands Boulevard"
-housenumber: 1500
+street: North White Sands Boulevard
+housenumber: "1500"
 phone: ""
 opening_hours: ""
 website: ""

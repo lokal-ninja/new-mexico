@@ -1,11 +1,11 @@
 id: 426290022
-type: way
+type: node
 latitude: 35.62026
 longitude: -106.0322
 postcode: "87507"
 city: Santa Fe
-street: "Herrera Drive"
-housenumber: 5701
-phone: "+1 505-424-9304"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3423/santa-fe-nm/whats-new"
+street: Herrera Drive
+housenumber: "5701"
+phone: +1 505-424-9304
+opening_hours: 24/7
+website: https://www.walmart.com/store/3423/santa-fe-nm/whats-new

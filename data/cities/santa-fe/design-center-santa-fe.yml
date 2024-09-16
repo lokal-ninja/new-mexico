@@ -1,11 +1,11 @@
 id: 461761720
-type: way
+type: node
 latitude: 35.68423
 longitude: -105.94429
 postcode: "87501"
 city: Santa Fe
-street: "Cerrillos Road"
-housenumber: 418
-phone: "+1-505-424-6996"
+street: Cerrillos Road
+housenumber: "418"
+phone: +1-505-424-6996
 opening_hours: ""
-website: "https://www.designcentersantafe.com/"
+website: https://www.designcentersantafe.com/

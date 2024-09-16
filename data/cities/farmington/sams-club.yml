@@ -1,11 +1,11 @@
 id: 551310838
-type: way
+type: node
 latitude: 36.76622
 longitude: -108.15394
 postcode: "87402"
 city: Farmington
-street: "East Main Street"
-housenumber: 4500
-phone: "+1 505-326-3500"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/farmington-nm-sams-club/6347"
+street: East Main Street
+housenumber: "4500"
+phone: +1 505-326-3500
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/farmington-nm-sams-club/6347

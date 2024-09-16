@@ -1,11 +1,11 @@
 id: 656063942
-type: way
+type: node
 latitude: 34.43843
 longitude: -103.20104
 postcode: "88101"
 city: Clovis
-street: "North Prince Street"
-housenumber: 3728
-phone: "+1 575-769-2261"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/821/clovis-nm/whats-new"
+street: North Prince Street
+housenumber: "3728"
+phone: +1 575-769-2261
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/821/clovis-nm/whats-new

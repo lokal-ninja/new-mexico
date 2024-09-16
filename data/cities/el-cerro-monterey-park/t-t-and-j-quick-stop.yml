@@ -1,11 +1,11 @@
 id: 551561870
-type: way
+type: node
 latitude: 34.77182
 longitude: -106.66469
 postcode: "87031"
 city: El Cerro-Monterey Park
-street: "El Cerro Mission Boulevard"
-housenumber: 90
+street: El Cerro Mission Boulevard
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

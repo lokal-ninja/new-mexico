@@ -4,8 +4,8 @@ latitude: 35.68653
 longitude: -105.93947
 postcode: "87501"
 city: Santa Fe
-street: "East Water Street"
-housenumber: 109
-phone: "+1-505-983-6080"
-opening_hours: "09:30-18:00"
-website: "http://thechileshop.com/"
+street: East Water Street
+housenumber: "109"
+phone: +1-505-983-6080
+opening_hours: 09:30-18:00
+website: http://thechileshop.com/

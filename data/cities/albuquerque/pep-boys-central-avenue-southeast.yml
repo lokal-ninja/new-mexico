@@ -1,11 +1,11 @@
 id: 209861282
-type: way
+type: node
 latitude: 35.07713
 longitude: -106.58323
-postcode: "87108-1604"
+postcode: 87108-1604
 city: Albuquerque
-street: "Central Avenue Southeast"
-housenumber: 5600
+street: Central Avenue Southeast
+housenumber: "5600"
 phone: ""
 opening_hours: ""
 website: ""

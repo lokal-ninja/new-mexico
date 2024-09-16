@@ -1,11 +1,11 @@
 id: 900201020
-type: way
+type: node
 latitude: 35.08055
 longitude: -106.71158
 postcode: "87121"
 city: Albuquerque
-street: "Coors Boulevard Northwest"
-housenumber: 101
+street: Coors Boulevard Northwest
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-101+coors+blvd+nw-albuquerque-nm-87121/id=4047"
+website: https://www.walgreens.com/locator/walgreens-101+coors+blvd+nw-albuquerque-nm-87121/id=4047

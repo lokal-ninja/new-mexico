@@ -1,11 +1,11 @@
 id: 250901623
-type: way
+type: node
 latitude: 35.07113
 longitude: -106.52324
 postcode: "87123"
 city: Albuquerque
-street: "Central Avenue"
-housenumber: 11035
-phone: "+1 505 2920174"
+street: Central Avenue
+housenumber: "11035"
+phone: +1 505 2920174
 opening_hours: ""
 website: ""

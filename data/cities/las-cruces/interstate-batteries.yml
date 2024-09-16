@@ -1,11 +1,11 @@
 id: 992782804
-type: way
+type: node
 latitude: 32.25993
 longitude: -106.76103
 postcode: "88005"
 city: Las Cruces
-street: "Carver Road"
-housenumber: 265
+street: Carver Road
+housenumber: "265"
 phone: "+15755244327"
 opening_hours: ""
-website: "https://www.interstatebatteries.com/locations/interstate-batteries-of-las-cruces-nm"
+website: https://www.interstatebatteries.com/locations/interstate-batteries-of-las-cruces-nm

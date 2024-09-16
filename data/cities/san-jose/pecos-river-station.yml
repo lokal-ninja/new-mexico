@@ -4,8 +4,8 @@ latitude: 35.40778
 longitude: -105.49007
 postcode: "87565"
 city: San Jose
-street: "Regalia Lane"
-housenumber: 2
-phone: "+1 575 421-2211"
-opening_hours: "07:00-20:00"
-website: "https://elvalle.com/"
+street: Regalia Lane
+housenumber: "2"
+phone: +1 575 421-2211
+opening_hours: 07:00-20:00
+website: https://elvalle.com/

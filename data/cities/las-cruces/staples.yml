@@ -4,8 +4,8 @@ latitude: 32.31126
 longitude: -106.75177
 postcode: "88001"
 city: Las Cruces
-street: "East Lohman Avenue"
-housenumber: 2260
-phone: "+1 575-526-4871"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/nm/las-cruces/2260-east-lohman-ave"
+street: East Lohman Avenue
+housenumber: "2260"
+phone: +1 575-526-4871
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/nm/las-cruces/2260-east-lohman-ave

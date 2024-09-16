@@ -1,11 +1,11 @@
 id: 259696922
-type: way
+type: node
 latitude: 35.63265
 longitude: -106.0231
 postcode: "87507"
 city: Santa Fe
-street: "Camino Entrada"
-housenumber: 2582
+street: Camino Entrada
+housenumber: "2582"
 phone: ""
 opening_hours: ""
 website: ""

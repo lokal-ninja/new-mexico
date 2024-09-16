@@ -1,11 +1,11 @@
 id: 596156858
-type: way
+type: node
 latitude: 35.68252
 longitude: -105.96561
 postcode: "87501"
 city: Santa Fe
-street: "Camino Alire"
-housenumber: 304
+street: Camino Alire
+housenumber: "304"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 665357943
-type: way
+type: node
 latitude: 32.31282
 longitude: -106.79836
 postcode: "88005"
 city: Las Cruces
-street: "West Picacho Avenue"
-housenumber: 1440
-phone: "+1 575-526-4200"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West Picacho Avenue
+housenumber: "1440"
+phone: +1 575-526-4200
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

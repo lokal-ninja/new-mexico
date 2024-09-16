@@ -4,8 +4,8 @@ latitude: 35.07767
 longitude: -106.59499
 postcode: "87108"
 city: Albuquerque
-street: "Washington Street Southeast"
-housenumber: 136
-phone: "+1-505-256-7220"
-opening_hours: "Tu-Fr 10:30-17:30; Sa 11:00-15:00; Su closed; Mo on appointment"
-website: "https://abqrepair.com"
+street: Washington Street Southeast
+housenumber: "136"
+phone: +1-505-256-7220
+opening_hours: Tu-Fr 10:30-17:30; Sa 11:00-15:00; Su closed; Mo "on appointment"
+website: https://abqrepair.com

@@ -1,11 +1,11 @@
 id: 148532052
-type: way
+type: node
 latitude: 33.15241
 longitude: -107.24894
 postcode: "87901"
 city: Truth Or Consequences
-street: "H.R. Ashbaugh Drive"
-housenumber: 2001
-phone: "+1-575-894-0343"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4341/truth-or%20consequenc-nm/whats-new"
+street: H.R. Ashbaugh Drive
+housenumber: "2001"
+phone: +1-575-894-0343
+opening_hours: 24/7
+website: https://www.walmart.com/store/4341/truth-or%20consequenc-nm/whats-new

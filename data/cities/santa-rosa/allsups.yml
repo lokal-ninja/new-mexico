@@ -1,11 +1,11 @@
 id: 200081822
-type: way
+type: node
 latitude: 34.94446
 longitude: -104.67061
 postcode: "88435"
 city: Santa Rosa
-street: "Will Rogers Drive"
-housenumber: 1485
+street: Will Rogers Drive
+housenumber: "1485"
 phone: ""
 opening_hours: ""
 website: ""

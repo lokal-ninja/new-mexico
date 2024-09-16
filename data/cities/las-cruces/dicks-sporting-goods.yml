@@ -1,11 +1,11 @@
 id: 50437810
-type: way
+type: node
 latitude: 32.31946
 longitude: -106.74727
 postcode: "88011"
 city: Las Cruces
-street: "North Telshor Boulevard"
-housenumber: 200
-phone: "+1 575-522-9756"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/nm/las-cruces/1076/"
+street: North Telshor Boulevard
+housenumber: "200"
+phone: +1 575-522-9756
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/nm/las-cruces/1076/

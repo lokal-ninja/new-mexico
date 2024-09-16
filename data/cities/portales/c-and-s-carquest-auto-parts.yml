@@ -1,11 +1,11 @@
 id: 1256646337
-type: way
+type: node
 latitude: 34.18583
 longitude: -103.34005
 postcode: "88130"
 city: Portales
-street: "West 1st Street"
-housenumber: 300
+street: West 1st Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

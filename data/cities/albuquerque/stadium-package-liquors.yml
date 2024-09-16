@@ -4,8 +4,8 @@ latitude: 35.0704
 longitude: -106.64483
 postcode: "87102"
 city: Albuquerque
-street: "Broadway Boulevard Southeast"
-housenumber: 1306
-phone: "(505) 242-8542"
-opening_hours: "Mo-Sa 09:00-24:00; Su 12:00-22:30"
+street: Broadway Boulevard Southeast
+housenumber: "1306"
+phone: (505) 242-8542
+opening_hours: Mo-Sa 09:00-24:00; Su 12:00-22:30
 website: ""

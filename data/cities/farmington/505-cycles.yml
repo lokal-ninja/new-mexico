@@ -1,11 +1,11 @@
 id: 591080164
-type: way
+type: node
 latitude: 36.76079
 longitude: -108.15491
 postcode: "87402"
 city: Farmington
-street: "East Main Street"
-housenumber: 4301
+street: East Main Street
+housenumber: "4301"
 phone: ""
 opening_hours: ""
-website: "https://www.505cycles.com/"
+website: https://www.505cycles.com/

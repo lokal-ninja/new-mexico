@@ -1,11 +1,11 @@
 id: 995652145
-type: way
+type: node
 latitude: 32.85877
 longitude: -105.99954
 postcode: "88310"
 city: Alamogordo
-street: "US 70"
-housenumber: 1501
-phone: "(575)223-1229"
+street: US 70
+housenumber: "1501"
+phone: (575)223-1229
 opening_hours: ""
 website: ""

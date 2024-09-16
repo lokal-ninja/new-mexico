@@ -1,11 +1,11 @@
 id: 226328496
-type: way
+type: node
 latitude: 34.9466
 longitude: -104.63789
 postcode: "88435"
 city: Santa Rosa
-street: "State Road 156"
-housenumber: 1028
+street: State Road 156
+housenumber: "1028"
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
+opening_hours: Mo-Su 00:00-24:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 35.82784
 longitude: -106.20706
 postcode: "87544"
 city: White Rock
-street: "Rover Blvd"
-housenumber: 35
-phone: "505-393-0068"
-opening_hours: "Mon & Tue: 9 AM– 6 PM ||Wed to Fri : 9 AM–7 PM || Sat: 10 AM–7 PM || Sun : 10 AM–6 PM"
-website: "https://www.420teatime.com/"
+street: Rover Blvd
+housenumber: "35"
+phone: 505-393-0068
+opening_hours: 'Mon & Tue: 9 AM– 6 PM ||Wed to Fri : 9 AM–7 PM || Sat: 10 AM–7 PM
+    || Sun : 10 AM–6 PM'
+website: https://www.420teatime.com/

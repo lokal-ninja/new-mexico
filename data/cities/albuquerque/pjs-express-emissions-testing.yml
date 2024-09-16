@@ -1,11 +1,11 @@
 id: 1215154443
-type: way
+type: node
 latitude: 35.10875
 longitude: -106.60483
 postcode: "87112"
 city: Albuquerque
-street: "Eubank Blvd NE"
-housenumber: 901
-phone: "+1-505-292-9722"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 10:00-16:00"
-website: "https://pjsexpressemissionstesting.com"
+street: Eubank Blvd NE
+housenumber: "901"
+phone: +1-505-292-9722
+opening_hours: Mo-Fr 09:00-17:30; Sa 10:00-16:00
+website: https://pjsexpressemissionstesting.com

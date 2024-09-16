@@ -1,11 +1,11 @@
 id: 345395192
-type: way
+type: node
 latitude: 32.39324
 longitude: -106.71799
 postcode: "88012"
 city: Las Cruces
-street: "Mesa Grande Drive"
-housenumber: 4955
+street: Mesa Grande Drive
+housenumber: "4955"
 phone: "+15753865046"
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/nm/las-cruces/13442"
+website: https://www.dollargeneral.com/store-directory/nm/las-cruces/13442

@@ -1,11 +1,11 @@
 id: 657901895
-type: way
+type: node
 latitude: 35.53097
 longitude: -108.66734
 postcode: "87301"
 city: Gallup
-street: "East Highway 66"
-housenumber: 3800
+street: East Highway 66
+housenumber: "3800"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

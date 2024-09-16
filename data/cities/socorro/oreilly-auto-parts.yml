@@ -1,11 +1,11 @@
 id: 438370619
-type: way
+type: node
 latitude: 34.06705
 longitude: -106.89231
 postcode: "87801"
 city: Socorro
-street: "California Street"
-housenumber: 902
+street: California Street
+housenumber: "902"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/nm/socorro/autoparts-5061.html"
+website: https://locations.oreillyauto.com/nm/socorro/autoparts-5061.html

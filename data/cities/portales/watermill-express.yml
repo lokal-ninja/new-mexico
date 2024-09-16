@@ -1,11 +1,11 @@
 id: 1255978281
-type: way
+type: node
 latitude: 34.18154
 longitude: -103.34541
 postcode: "88130"
 city: Portales
-street: "West 1st Street"
-housenumber: 1126
+street: West 1st Street
+housenumber: "1126"
 phone: "+18004879643"
-opening_hours: "24/7"
-website: "https://watermillexpress.com/?utm_source=google&utm_medium=GMB&utm_campaign=Local&utm_term=gmb_label&utm_content=city"
+opening_hours: 24/7
+website: https://watermillexpress.com/?utm_source=google&utm_medium=GMB&utm_campaign=Local&utm_term=gmb_label&utm_content=city

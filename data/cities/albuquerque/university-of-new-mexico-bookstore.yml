@@ -1,11 +1,11 @@
 id: 164025787
-type: way
+type: node
 latitude: 35.08154
 longitude: -106.61968
 postcode: ""
 city: Albuquerque
-street: "Central Avenue Northeast"
-housenumber: 2301
-phone: "+1-505-277-5451"
+street: Central Avenue Northeast
+housenumber: "2301"
+phone: +1-505-277-5451
 opening_hours: ""
-website: "https://bookstore.unm.edu/"
+website: https://bookstore.unm.edu/

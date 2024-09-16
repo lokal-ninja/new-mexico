@@ -1,11 +1,11 @@
 id: 930009016
-type: way
+type: node
 latitude: 32.27412
 longitude: -106.76457
 postcode: "88005"
 city: Las Cruces
-street: "Hollyhock"
-housenumber: 172
-phone: "(575)-805-4563"
+street: Hollyhock
+housenumber: "172"
+phone: (575)-805-4563
 opening_hours: ""
 website: ""

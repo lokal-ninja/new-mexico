@@ -1,11 +1,11 @@
 id: 52151666
-type: way
+type: node
 latitude: 32.34333
 longitude: -106.77255
 postcode: "88001"
 city: Las Cruces
-street: "North Main Street"
-housenumber: 3200
-phone: "+1 575-541-5572"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/nm-las-cruces/1158"
+street: North Main Street
+housenumber: "3200"
+phone: +1 575-541-5572
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-20:00
+website: https://www.lowes.com/store/nm-las-cruces/1158

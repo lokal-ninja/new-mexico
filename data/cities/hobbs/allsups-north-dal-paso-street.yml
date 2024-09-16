@@ -1,11 +1,11 @@
 id: 614456881
-type: way
+type: node
 latitude: 32.74049
 longitude: -103.12833
 postcode: "88240"
 city: Hobbs
-street: "North Dal Paso Street"
-housenumber: 3709
+street: North Dal Paso Street
+housenumber: "3709"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 786034091
-type: way
+type: node
 latitude: 36.87926
 longitude: -104.44097
 postcode: "87740"
 city: Raton
-street: "South 2nd Street"
-housenumber: 1310
+street: South 2nd Street
+housenumber: "1310"
 phone: ""
 opening_hours: ""
 website: ""

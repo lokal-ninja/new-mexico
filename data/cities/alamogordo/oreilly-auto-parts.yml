@@ -1,11 +1,11 @@
 id: 219989499
-type: way
+type: node
 latitude: 32.8859
 longitude: -105.96103
 postcode: "88310"
 city: Alamogordo
-street: "South White Sands Boulevard"
-housenumber: 500
+street: South White Sands Boulevard
+housenumber: "500"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/nm/alamogordo/autoparts-2852.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/nm/alamogordo/autoparts-2852.html

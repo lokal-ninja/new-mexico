@@ -1,11 +1,11 @@
 id: 737451601
-type: way
+type: node
 latitude: 35.21775
 longitude: -106.62439
 postcode: "87048"
 city: Corrales
-street: "Corrales Road"
-housenumber: 3701
-phone: "+1 505 508 8464"
-opening_hours: "We-Su 10:00-16:00"
-website: "https://www.swanimalrescuefund.org/our-thrift-store/"
+street: Corrales Road
+housenumber: "3701"
+phone: +1 505 508 8464
+opening_hours: We-Su 10:00-16:00
+website: https://www.swanimalrescuefund.org/our-thrift-store/

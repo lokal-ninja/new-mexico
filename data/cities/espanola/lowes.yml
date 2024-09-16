@@ -1,11 +1,11 @@
 id: 704443652
-type: way
+type: node
 latitude: 36.0141
 longitude: -106.06659
 postcode: "87532"
 city: Espanola
-street: "Lowdermilk Lane"
-housenumber: 407
-phone: "+1 505-367-1900"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.lowes.com/store/nm-espanola/2510"
+street: Lowdermilk Lane
+housenumber: "407"
+phone: +1 505-367-1900
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.lowes.com/store/nm-espanola/2510

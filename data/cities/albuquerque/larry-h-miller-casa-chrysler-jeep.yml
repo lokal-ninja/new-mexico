@@ -1,11 +1,11 @@
 id: 448957619
-type: way
+type: node
 latitude: 35.19063
 longitude: -106.65979
 postcode: "87114"
 city: Albuquerque
-street: "Coors Boulevard Northwest"
-housenumber: 9733
-phone: "(505) 633-2050"
+street: Coors Boulevard Northwest
+housenumber: "9733"
+phone: (505) 633-2050
 opening_hours: ""
-website: "https://www.lhmcasajeepalbuquerque.com/"
+website: https://www.lhmcasajeepalbuquerque.com/

@@ -1,11 +1,11 @@
 id: 242610256
-type: way
+type: node
 latitude: 35.65294
 longitude: -106.00388
 postcode: "87507"
 city: Santa Fe
-street: "Richards Avenue"
-housenumber: 952
-phone: "+1 505-424-9463"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/santa-fe-nm/nm/santa-fe/87507/3503"
+street: Richards Avenue
+housenumber: "952"
+phone: +1 505-424-9463
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/santa-fe-nm/nm/santa-fe/87507/3503

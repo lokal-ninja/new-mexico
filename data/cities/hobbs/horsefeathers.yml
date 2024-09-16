@@ -1,11 +1,11 @@
 id: 804813271
-type: way
+type: node
 latitude: 32.72248
 longitude: -103.12741
 postcode: "88240"
 city: Hobbs
-street: "North Dal Paso Street"
-housenumber: 2000
+street: North Dal Paso Street
+housenumber: "2000"
 phone: ""
 opening_hours: ""
 website: ""

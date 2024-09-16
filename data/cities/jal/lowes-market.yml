@@ -1,11 +1,11 @@
 id: 1189823779
-type: way
+type: node
 latitude: 32.11295
 longitude: -103.19507
 postcode: ""
 city: Jal
-street: "Curry Avenue"
-housenumber: 100
+street: Curry Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 870855872
-type: way
+type: node
 latitude: 35.02186
 longitude: -106.64221
 postcode: "87105"
 city: Albuquerque
-street: "Wagner Court SE"
-housenumber: 700
-phone: "505-345-8411"
+street: Wagner Court SE
+housenumber: "700"
+phone: 505-345-8411
 opening_hours: ""
 website: ""

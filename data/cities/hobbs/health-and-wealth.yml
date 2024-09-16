@@ -1,11 +1,11 @@
 id: 611948113
-type: way
+type: node
 latitude: 32.70972
 longitude: -103.13635
 postcode: "88240"
 city: Hobbs
-street: "North Turner Street"
-housenumber: 911
+street: North Turner Street
+housenumber: "911"
 phone: ""
 opening_hours: ""
 website: ""

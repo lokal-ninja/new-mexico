@@ -1,11 +1,11 @@
 id: 833044291
-type: way
+type: node
 latitude: 35.36296
 longitude: -103.41142
 postcode: "88426"
 city: Logan
-street: "US 54"
-housenumber: 303
+street: US 54
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

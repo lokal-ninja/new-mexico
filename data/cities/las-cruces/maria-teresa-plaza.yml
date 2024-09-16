@@ -1,11 +1,11 @@
 id: 929426673
-type: way
+type: node
 latitude: 32.27665
 longitude: -106.76693
 postcode: "88005"
 city: Las Cruces
-street: "Manso Avenue"
-housenumber: 3201
+street: Manso Avenue
+housenumber: "3201"
 phone: ""
 opening_hours: ""
 website: ""

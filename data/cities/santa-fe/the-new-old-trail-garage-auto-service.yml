@@ -1,11 +1,11 @@
 id: 461999216
-type: way
+type: node
 latitude: 35.67991
 longitude: -105.93804
 postcode: "87505"
 city: Santa Fe
-street: "Old Santa Fe Trail"
-housenumber: 600
+street: Old Santa Fe Trail
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

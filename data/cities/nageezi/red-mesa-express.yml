@@ -1,11 +1,11 @@
 id: 1124686774
-type: way
+type: node
 latitude: 36.24255
 longitude: -107.70403
 postcode: "87037"
 city: Nageezi
-street: "Highway 550"
-housenumber: 11260
-phone: "+1-505-278-0422"
+street: Highway 550
+housenumber: "11260"
+phone: +1-505-278-0422
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 643192617
-type: way
+type: node
 latitude: 32.44124
 longitude: -103.15911
 postcode: "88231"
 city: Eunice
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

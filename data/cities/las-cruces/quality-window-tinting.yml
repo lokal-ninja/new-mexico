@@ -1,11 +1,11 @@
 id: 930009044
-type: way
+type: node
 latitude: 32.27883
 longitude: -106.76961
 postcode: "88005"
 city: Las Cruces
-street: "Harrelson Street"
-housenumber: 3001
+street: Harrelson Street
+housenumber: "3001"
 phone: ""
 opening_hours: ""
 website: ""

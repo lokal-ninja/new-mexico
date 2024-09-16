@@ -1,11 +1,11 @@
 id: 827664743
-type: way
+type: node
 latitude: 35.17571
 longitude: -106.56103
 postcode: "87109"
 city: Albuquerque
-street: "Wyoming Boulevard Northeast"
-housenumber: 8001
+street: Wyoming Boulevard Northeast
+housenumber: "8001"
 phone: ""
 opening_hours: ""
-website: "http://www.ddiabq.com/property04"
+website: http://www.ddiabq.com/property04

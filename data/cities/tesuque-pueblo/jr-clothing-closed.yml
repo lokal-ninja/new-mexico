@@ -1,11 +1,11 @@
 id: 770656534
-type: way
+type: node
 latitude: 35.80849
 longitude: -105.96652
 postcode: "87506"
 city: Tesuque Pueblo
-street: "US 84/285"
-housenumber: 17377
+street: US 84/285
+housenumber: "17377"
 phone: ""
 opening_hours: ""
 website: ""

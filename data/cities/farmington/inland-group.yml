@@ -1,11 +1,11 @@
 id: 535000276
-type: way
+type: node
 latitude: 36.71834
 longitude: -108.15548
 postcode: "87401"
 city: Farmington
-street: "Bloomfield Highway"
-housenumber: 3924
-phone: "+1-505-327-0200"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:30-16:00"
-website: "https://www.inland-group.com/location/farmington/"
+street: Bloomfield Highway
+housenumber: "3924"
+phone: +1-505-327-0200
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:30-16:00
+website: https://www.inland-group.com/location/farmington/

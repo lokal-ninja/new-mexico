@@ -1,11 +1,11 @@
 id: 133950142
-type: way
+type: node
 latitude: 33.64627
 longitude: -105.8719
 postcode: "88301"
 city: Carrizozo
-street: "Central Avenue"
-housenumber: 100
+street: Central Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

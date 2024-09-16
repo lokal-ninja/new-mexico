@@ -1,11 +1,11 @@
 id: 318069388
-type: way
+type: node
 latitude: 35.67588
 longitude: -105.95421
 postcode: "87501"
 city: Santa Fe
-street: "South Saint Francis Drive"
-housenumber: 
+street: South Saint Francis Drive
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1096+s+saint+francis+dr-santa+fe-nm-87505/id=2900"
+website: https://www.walgreens.com/locator/walgreens-1096+s+saint+francis+dr-santa+fe-nm-87505/id=2900

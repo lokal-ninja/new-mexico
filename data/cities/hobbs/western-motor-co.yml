@@ -1,11 +1,11 @@
 id: 614359135
-type: way
+type: node
 latitude: 32.75111
 longitude: -103.17102
 postcode: "88240"
 city: Hobbs
-street: "North Lovington Highway"
-housenumber: 4502
+street: North Lovington Highway
+housenumber: "4502"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 461965593
-type: way
+type: node
 latitude: 35.67392
 longitude: -105.94921
 postcode: "87505"
 city: Santa Fe
-street: "Don Diego Avenue"
-housenumber: 1040
+street: Don Diego Avenue
+housenumber: "1040"
 phone: ""
 opening_hours: ""
 website: ""

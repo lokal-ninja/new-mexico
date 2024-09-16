@@ -1,11 +1,11 @@
 id: 795864308
-type: way
+type: node
 latitude: 35.09269
 longitude: -106.62916
 postcode: "87102"
 city: Albuquerque
-street: "Legion Road Northeast"
-housenumber: 1200
+street: Legion Road Northeast
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

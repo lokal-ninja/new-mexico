@@ -1,11 +1,11 @@
 id: 133943436
-type: way
+type: node
 latitude: 34.07021
 longitude: -106.89376
 postcode: "87801"
 city: Socorro
-street: "California Street"
-housenumber: 1013
+street: California Street
+housenumber: "1013"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/nm/socorro/1013-n-california-st.html"
+website: https://www.autozone.com/locations/nm/socorro/1013-n-california-st.html

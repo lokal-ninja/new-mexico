@@ -1,11 +1,11 @@
 id: 1312303866
-type: way
+type: node
 latitude: 36.29964
 longitude: -106.04599
 postcode: "87549"
 city: Ojo Caliente
-street: "US285"
-housenumber: 35281
+street: US285
+housenumber: "35281"
 phone: ""
 opening_hours: ""
 website: ""

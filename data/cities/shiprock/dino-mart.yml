@@ -1,11 +1,11 @@
 id: 803533061
-type: way
+type: node
 latitude: 36.78904
 longitude: -108.6864
 postcode: "87420"
 city: Shiprock
-street: "US 491 North"
-housenumber: 
-phone: "+1-505-675-3130"
-opening_hours: "Mo-Su 05:00-24:00"
+street: US 491 North
+housenumber: ""
+phone: +1-505-675-3130
+opening_hours: Mo-Su 05:00-24:00
 website: ""

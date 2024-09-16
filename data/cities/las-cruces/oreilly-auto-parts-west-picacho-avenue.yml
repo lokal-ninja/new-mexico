@@ -1,11 +1,11 @@
 id: 799467913
-type: way
+type: node
 latitude: 32.31105
 longitude: -106.81251
 postcode: "88007"
 city: Las Cruces
-street: "West Picacho Avenue"
-housenumber: 2480
+street: West Picacho Avenue
+housenumber: "2480"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/nm/lascruces/autoparts-4411.html"
+website: https://locations.oreillyauto.com/nm/lascruces/autoparts-4411.html

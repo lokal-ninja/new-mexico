@@ -1,11 +1,11 @@
 id: 531120402
-type: way
+type: node
 latitude: 34.24439
 longitude: -105.59578
 postcode: "88318"
 city: Corona
-street: "Main Street"
-housenumber: 181
+street: Main Street
+housenumber: "181"
 phone: ""
 opening_hours: ""
 website: ""

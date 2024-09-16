@@ -1,11 +1,11 @@
 id: 474261956
-type: way
+type: node
 latitude: 35.6562
 longitude: -105.98594
 postcode: "87505"
 city: Santa Fe
-street: "Camino Carlos Rey"
-housenumber: 1202
+street: Camino Carlos Rey
+housenumber: "1202"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

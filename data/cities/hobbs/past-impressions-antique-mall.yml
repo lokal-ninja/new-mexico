@@ -1,11 +1,11 @@
 id: 611927403
-type: way
+type: node
 latitude: 32.70094
 longitude: -103.13759
 postcode: "88240"
 city: Hobbs
-street: "West Broadway Street"
-housenumber: 200
+street: West Broadway Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

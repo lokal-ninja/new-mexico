@@ -1,11 +1,11 @@
 id: 996681546
-type: way
+type: node
 latitude: 35.06525
 longitude: -106.19203
 postcode: "87015"
 city: Edgewood
-street: "NM-344"
-housenumber: 25
+street: NM-344
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""
