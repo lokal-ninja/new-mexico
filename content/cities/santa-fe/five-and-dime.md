@@ -1,5 +1,5 @@
 ---
-title: "Five and Dime"
+title: "Five & Dime"
 url: /santa-fe/five-and-dime/
-shop: general
+shop: convenience
 ---
