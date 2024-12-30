@@ -1,6 +1,6 @@
 ---
 title: Wagon Mound
 url: /wagon-mound/
-latitude: 36.01
-longitude: -104.702
+latitude: 36.012
+longitude: -104.706
 ---
