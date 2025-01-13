@@ -1,5 +1,5 @@
 ---
 title: "Allsup's"
-url: /lovington/allsups-south-main-avenue/
+url: /lovington/allsups-west-avenue-d/
 shop: convenience
 ---
