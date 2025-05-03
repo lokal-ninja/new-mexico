@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /las-cruces/family-dollar-south-main-street/
+url: /los-lunas/family-dollar-meadow-lake-road/
 shop: variety store
 ---
