@@ -1,5 +1,5 @@
 ---
 title: "Farmer's Market"
 url: /flora-vista/farmers-market/
-shop: greengrocer
+shop: supermarket
 ---

@@ -1,6 +1,6 @@
 ---
 title: Silver City
 url: /silver-city/
-latitude: 32.788
-longitude: -108.245
+latitude: 33.034
+longitude: -108.168
 ---

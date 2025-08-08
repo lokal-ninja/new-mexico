@@ -7,5 +7,5 @@ city: Albuquerque
 street: Candelaria Road Northeast
 housenumber: "12501"
 phone: ""
-opening_hours: ""
+opening_hours: '"Appointment Only"'
 website: https://blushabq.com/
