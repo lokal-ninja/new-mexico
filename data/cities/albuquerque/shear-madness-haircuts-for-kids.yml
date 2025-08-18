@@ -7,5 +7,6 @@ city: Albuquerque
 street: Wyoming Boulevard Northeast
 housenumber: "8001"
 phone: +1-505-255-5502
-opening_hours: ""
+opening_hours: Mo 01:00-19:00; Tu 11:00-18:00; We 10:00-19:00; Th,Sa 10:00-17:00;
+    Fr 10:00-18:00; Su 11:00-17:00
 website: https://shearmadnesskids.com/albuquerque-new-mexico/
