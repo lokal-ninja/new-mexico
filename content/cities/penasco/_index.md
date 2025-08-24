@@ -1,6 +1,6 @@
 ---
-title: Penasco
+title: Peñasco
 url: /penasco/
-latitude: 36.189
-longitude: -105.71
+latitude: 36.171
+longitude: -105.688
 ---
