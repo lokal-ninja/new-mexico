@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /bloomfield/dollar-general-north-1st-street/
+url: /los-lunas/dollar-general-la-ladera-road/
 shop: variety store
 ---
