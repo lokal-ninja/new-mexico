@@ -1,6 +1,6 @@
 ---
 title: Tucumcari
 url: /tucumcari/
-latitude: 35.15
-longitude: -103.724
+latitude: 35.178
+longitude: -103.726
 ---
