@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /waterflow/speedway-highway-64/
+url: /aztec/speedway-us-550/
 shop: convenience
 ---
