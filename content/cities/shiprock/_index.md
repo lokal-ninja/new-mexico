@@ -1,6 +1,6 @@
 ---
 title: Shiprock
 url: /shiprock/
-latitude: 36.778
-longitude: -108.697
+latitude: 36.789
+longitude: -108.686
 ---

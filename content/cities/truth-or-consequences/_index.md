@@ -1,6 +1,6 @@
 ---
 title: Truth or Consequences
 url: /truth-or-consequences/
-latitude: 33.129
-longitude: -107.255
+latitude: 33.133
+longitude: -107.245
 ---
