@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /santa-fe/walgreens-airport-road/
+url: /belen/walgreens/
 shop: chemist
 ---
