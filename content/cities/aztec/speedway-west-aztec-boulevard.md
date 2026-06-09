@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /aztec/speedway-north-main-avenue-2/
+url: /aztec/speedway-west-aztec-boulevard/
 shop: convenience
 ---

@@ -1,6 +1,6 @@
 ---
 title: Aztec
 url: /aztec/
-latitude: 36.827
-longitude: -108.009
+latitude: 36.826
+longitude: -107.993
 ---
