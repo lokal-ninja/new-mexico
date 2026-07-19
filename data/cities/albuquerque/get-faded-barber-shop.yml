@@ -7,5 +7,6 @@ city: Albuquerque
 street: Rio Grande Blvd NW
 housenumber: "1406"
 phone: +1-505-573-1026
-opening_hours: Tu 8:30-17:00, We 8:30-16:30, Th 8:30-17:00, Fr 8:30-17:00, Sa 7:00-14:00
+opening_hours: Tu 08:30-17:00, We 08:30-16:30, Th 08:30-17:00, Fr 08:30-17:00, Sa
+    07:00-14:00
 website: ""
