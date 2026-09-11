@@ -1,6 +1,6 @@
 ---
 title: Tesuque
 url: /tesuque/
-latitude: 35.824
-longitude: -105.975
+latitude: 35.762
+longitude: -105.932
 ---
