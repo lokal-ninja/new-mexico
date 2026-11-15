@@ -1,6 +1,6 @@
 ---
 title: Bernalillo
 url: /bernalillo/
-latitude: 35.3
-longitude: -106.551
+latitude: 35.32
+longitude: -106.552
 ---

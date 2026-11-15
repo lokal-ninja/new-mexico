@@ -1,6 +1,6 @@
 ---
 title: Rio Communities
 url: /rio-communities/
-latitude: 34.651
+latitude: 34.655
 longitude: -106.736
 ---
